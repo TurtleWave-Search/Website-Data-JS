@@ -1,5 +1,6 @@
 const ismobile = /Mobi|Android|phone/.test(navigator.userAgent);
 let fontsizeforthing = "1vw";
+
 function isElectron() {
     if (typeof window !== 'undefined' && typeof window.process === 'object' && window.process.type === 'renderer') {
         return true;
@@ -12,21 +13,22 @@ function isElectron() {
     }
     return false;
 }
-    document.addEventListener("DOMContentLoaded", function () {
-        const ismobile = /Mobi|Android|phone/.test(navigator.userAgent);
-        const searchbar1 = document.getElementById("searchbar");
-        const searchbar2 = document.getElementById("searchbar-results");
-        const input = document.getElementById("submit");
-        // other mobile stuff to make suggestiondiv fit
-        if (ismobile) {
-            fontsizeforthing = "3vw";
-        }
-        // other mobile stuff to make suggestiondiv fit ENDS HAHA K-O
-        const suggestionexample = document.getElementById("suggestionExample");
-        const suggestionDiv = document.getElementById("suggestionDiv");
-        const searchbar = document.getElementById("searchbar") || document.getElementById("searchbar-results");
-        suggestionexample.style.display = "none";
-        const suggestions = [
+
+document.addEventListener("DOMContentLoaded", function () {
+    const searchbar1 = document.getElementById("searchbar");
+    const searchbar2 = document.getElementById("searchbar-results");
+    const input = document.getElementById("submit");
+
+    if (ismobile) {
+        fontsizeforthing = "3vw";
+    }
+
+    const suggestionexample = document.getElementById("suggestionExample");
+    const suggestionDiv = document.getElementById("suggestionDiv");
+    const searchbar = searchbar1 || searchbar2;
+    suggestionexample.style.display = "none";
+
+           const suggestions = [
             "TurtleWave", "YouTube", "BayTurtleKing", "Bay Turtles", "Catholic",
             "Christian", "Kitten", "ChatGPT", "OpenAI", "TurtleWave Browser", "Microsoft",
             "Music", "TurtleWave Music", "McDonald's", "Spotify", "Superman",
@@ -65,62 +67,35 @@ function isElectron() {
             "Console Gaming", "Xbox", "Playstation", "Star Wars", "Jokes", "Fun facts", "Best Buy"
         ];
 
-        function autosuggestions() {
-            const suggestionTable = document.getElementById("suggestionTable");
-            if (!suggestionTable) {
-                return;
-            }
-            suggestionTable.innerHTML = "";
-            const currentValue = searchbar.value.toLowerCase().trim();
+    function autosuggestions() {
+        const suggestionTable = document.getElementById("suggestionTable");
+        if (!suggestionTable) return;
 
-            const filteredSuggestions = suggestions.filter(suggestion =>
-                suggestion.toLowerCase().startsWith(currentValue)
-            );
-            const maxsuggestions = Math.floor(window.innerHeight / 120);
-            let numberofsuggestions = 0;
-            if (filteredSuggestions.length === 0) {
-                const noSuggestionElement = document.createElement("div");
-                noSuggestionElement.style.display = "flex";
-                noSuggestionElement.innerText = "No suggestions found.";
-                suggestionTable.appendChild(noSuggestionElement);
-            } else {
-                filteredSuggestions.forEach((suggestion, index) => {
-                    if (numberofsuggestions < maxsuggestions) {
-                        numberofsuggestions++;
-                        const newSuggestionElement = suggestionexample.cloneNode(true);
-                        newSuggestionElement.removeAttribute("id");
-                        newSuggestionElement.style.display = "flex";
-                        newSuggestionElement.innerHTML = `<td colspan="1" style="text-align: top; justify-content:top;">
-                                          <a style="width:100%; font-size:${fontsizeforthing}; text-align:top; align-items:top; justify-content:top;" 
-                                             href="/search?query=${encodeURIComponent(suggestion)}">${suggestion}</a>
-                                         </td>`;
-                        suggestionTable.appendChild(newSuggestionElement);
-                    }
-                });
-            }
-            const suggestionDiv = document.getElementById("suggestionDiv");
-            if (suggestionDiv && !window.location.href.includes("/search")) {
-                const baseheight = 3.5;
-                const maxheight = 50;
-                suggestionDiv.style.height = `${Math.min(numberofsuggestions * baseheight, maxheight)}vh`;
-            }
+        suggestionTable.innerHTML = ""; // Clear old suggestions
+        const currentValue = searchbar.value.toLowerCase().trim();
+        if (!currentValue) return;
+
+        const filteredSuggestions = suggestions.filter(suggestion =>
+            suggestion.toLowerCase().startsWith(currentValue)
+        );
+
+        const maxSuggestions = Math.floor(window.innerHeight / 120);
+        let numberOfSuggestions = 0;
+
+        for (let suggestion of filteredSuggestions) {
+            if (numberOfSuggestions >= maxSuggestions) break;
+
+            const row = document.createElement("div");
+            row.className = "suggestionRow";
+            row.textContent = suggestion;
+            row.style.fontSize = fontsizeforthing;
+            row.addEventListener("click", () => {
+                searchbar.value = suggestion;
+                suggestionTable.innerHTML = "";
+            });
+            suggestionTable.appendChild(row);
+            numberOfSuggestions++;
         }
-
-
-        searchbar.addEventListener("input", function (event) {
-            suggestionexample.style.display = "none";
-            const currentValue = searchbar.value.trim();
-            if (!suggestionDiv) {
-                return;
-            }
-            if (currentValue === "") {
-                suggestionDiv.style.display = "none";
-            } else {
-                suggestionDiv.style.display = "block";
-                if (document.getElementById("searchbar") && !document.getElementById("searchbar-results")) {
-                    document.getElementById('suggestionDiv').style.marginTop = "-52px";
-                }
-                autosuggestions();
-            }
-        });
-    });
+    }
+    searchbar.addEventListener("input", autosuggestions);
+});
