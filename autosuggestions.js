@@ -12,7 +12,6 @@ function isElectron() {
     }
     return false;
 }
-if (window.location.href.includes(".netlify.app") || isElectron() === true) {
     document.addEventListener("DOMContentLoaded", function () {
         const ismobile = /Mobi|Android|phone/.test(navigator.userAgent);
         const searchbar1 = document.getElementById("searchbar");
@@ -125,7 +124,3 @@ if (window.location.href.includes(".netlify.app") || isElectron() === true) {
             }
         });
     });
-} else {
-    console.log("Not on TurtleWave Browser, showing alert");
-    alert("TurtleWave Auto Suggestion API only on TurtleWave Browser (The home of TurtleWave Search).");
-}
