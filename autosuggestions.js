@@ -55,7 +55,7 @@ const searchbar1 = document.getElementById("searchbar");
       "Wildlife", "Baseball", "Basketball", "Ice Hockey", "Hockey", "Street Hockey", "Food", "Shark", "Fire TV", "Fire Stick",
       "Fire TV Stick", "Amazon", "Amazon News", "Quizlet", "IXL Learning", "Wordle", "Daily Puzzle", "Instagram", "Twitter",
       "Social Media", "Weather", "Weather Forecast", "Forecast", "Today's weather", "Turtle Game", "Thanos Snap", "Thanos", "Marvel",
-      "Superpowers", "Superheroes", "Captain Amercia", "Iron Man", "Spider-Man", "Cat House", "Cats.com", "Cat Narrow Eyes",
+      "Superpowers", "Superheroes", "Captain America", "Iron Man", "Spider-Man", "Cat House", "Cats.com", "Cat Narrow Eyes",
       "Cat Body Language", "Dog", "Kitten Rescue", "Cat Rescue", "Is Vaping Harmful", "Is Smoking Harmful", "Cigarettes", "Vaping",
       "Vapes", "Smoking", "How to quit tobacco", "3D Print", "3D Printing", "3D Printers", "ProtoLabs", "Instructables", "Tiktok",
       "TikTok ban", "CapCut", "Breaking News", "Today's News", "Latest News", "News", "Xfinity", "WhatsApp", "Facebook", "Messenger",
