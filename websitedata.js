@@ -2851,14 +2851,6 @@ var dataJSON = {
       icon: "https://www.google.com/s2/favicons?sz=64&domain=oceanhero.today",
     },
     {
-      title: "Who owns turtlewave browser",
-      description: "Who made TurtleWave Browser",
-      url: "creator.html?",
-      keywords:
-        "turtlewave browser, who made, creator of turtlewave browser, credits, search engine, search browser, who owns, what is, who is your mom scott, your mom scott",
-      icon: "https://cdn.glitch.global/d91692f2-cf09-42f3-a92e-2f88ff8935e0/Help?v=1695257264794",
-    },
-    {
       title: "Turtle Game",
       description: "TurtleWave Browser's Game!",
       url: "https://turtlewave.netlify.app/turtlegame/",
