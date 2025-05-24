@@ -105,9 +105,9 @@ var dataJSON = {
                                                                     {
       title: "Turtle Net",
       description: "Browse the most handsome turtles on the Internet on this classic-themed website.",
-      url: "https://turtwave.netlify.app/rblx/",
+      url: "https://turtlenet.netlify.app",
       keywords: "turtles, social media, turtlenet",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlenet.glitch.me"
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlenet.netlify.app"
     },
                                                                 {
       title: "TurtleWave Games",
