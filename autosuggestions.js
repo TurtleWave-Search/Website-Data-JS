@@ -27,8 +27,8 @@ const searchbar1 = document.getElementById("searchbar");
     suggestionexample.style.display = "none";
     const suggestions = [
       "TurtleWave", "YouTube", "BayTurtleKing", "Bay Turtles", "Catholic",
-      "Christian", "Kitten", "ChatGPT", "OpenAI", "TurtleWave Browser", "Microsoft",
-      "Music", "TurtleWave Music", "McDonald's", "Spotify", "Superman",
+      "Christian", "Kitten", "ChatGPT", "OpenAI", "TurtleWave Search", "Microsoft",
+      "Music", "McDonald's", "Spotify", "Superman",
       "Taylor Swift", "Metal", "Metallica", "What is TurtleWave", "What is a turtle", 
       "What is a dog", "What is a cat", "What is Roblox", "Cat breeds",
       "Russia", "Russian Blue Cat", "America", "United Kingdom", "Canada", "United States",
