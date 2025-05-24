@@ -1,4 +1,3 @@
-const ismobile = /Mobi|Android|phone/.test(navigator.userAgent);
 let fontsizeforthing = "1vw";
 function isElectron() {
     if (typeof window !== 'undefined' && typeof window.process === 'object' && window.process.type === 'renderer') {
