@@ -1,58 +1,72 @@
 [
   {
     "t": "Endangered Turtle",
-    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1746923546/Turtle_eating_plastic_bag-300x201_okewzc.jpg"
+    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1746923546/Turtle_eating_plastic_bag-300x201_okewzc.jpg",
+    "c": { "n": "First User", "h": "@firstuser" }
   },
-    {
+  {
     "t": "Yellow Bellied Slider Turtle!!!",
-    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1747101975/Reptiles-Yellow-Bellied-Slider_lus8ei.jpg"
+    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1747101975/Reptiles-Yellow-Bellied-Slider_lus8ei.jpg",
+    "c": { "n": "Bored person", "h": "@imbored41" }
   },
   {
     "t": "Roblox Turtle",
-    "i":"https://tr.rbxcdn.com/30DAY-Avatar-44A828D95C2CCC1B62A2D737DC1BDC12-Png/352/352/Avatar/Webp/noFilter"
+    "i": "https://tr.rbxcdn.com/30DAY-Avatar-44A828D95C2CCC1B62A2D737DC1BDC12-Png/352/352/Avatar/Webp/noFilter",
+    "c": { "n": "BayTurtleKing", "h": "@bayturtleking" }
   },
-    {
+  {
     "t": "Dabbing Turtle",
-    "i":"https://media.tenor.com/3x328Tn_4SwAAAAM/megans-dancing.gif"
+    "i": "https://media.tenor.com/3x328Tn_4SwAAAAM/megans-dancing.gif",
+    "c": { "n": "Turtle Gif Hub", "h": "@turtlehub" }
   },
-      {
+  {
     "t": "Turtle Daily Routine",
-    "i":"https://media.tenor.com/1Pdb7ZjgjlkAAAAM/tortoisejam.gif"
+    "i": "https://media.tenor.com/1Pdb7ZjgjlkAAAAM/tortoisejam.gif",
+    "c": { "n": "Tortoise Jam", "h": "@thefirsttortoise" }
   },
-        {
+  {
     "t": "TURTLES WITH LIGHTSABERS!!!!",
-    "i":"https://us1.discourse-cdn.com/woot/original/3X/b/1/b1cd0ae814af1ea44fbf103e98c6bcf4c38c930a.gif"
+    "i": "https://us1.discourse-cdn.com/woot/original/3X/b/1/b1cd0ae814af1ea44fbf103e98c6bcf4c38c930a.gif",
+    "c": { "n": "Star Wars Fan", "h": "@starwarsfan" }
   },
-          {
+  {
     "t": "hatchling turtle (gif)",
-    "i":"https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/tortoise.gif"
+    "i": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/tortoise.gif",
+    "c": { "n": "Turtle Gif Hub", "h": "@turtlehub" }
   },
-            {
+  {
     "t": "hi my name is turtle",
-    "i":"https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/Turtle?v=1697337260254"
+    "i": "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/Turtle?v=1697337260254",
+    "c": { "n": "TurtleWave Official", "h": "turtlewave" }
   },
-              {
+  {
     "t": "drawing turtle",
-    "i":"https://howtodrawforkids.com/wp-content/uploads/2021/11/how-to-draw-a-turtle-for-kids.jpg"
+    "i": "https://howtodrawforkids.com/wp-content/uploads/2021/11/how-to-draw-a-turtle-for-kids.jpg",
+    "c": { "n": "turtle lover", "h": "@iluvturtles" }
   },
-                {
+  {
     "t": "TurtleWave turtle",
-    "i":"https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/NewLogoBig?v=1697309309133"
+    "i": "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/NewLogoBig?v=1697309309133",
+    "c": { "n": "Turtle Net", "h": "@turtlenet" }
   },
-                  {
+  {
     "t": "'do you wanna dance' turtle",
-    "i":"https://cdn.glitch.global/369bf8ef-379b-4729-800d-6d834c6d626c/turtledance.gif?v=1716256252238"
+    "i": "https://cdn.glitch.global/369bf8ef-379b-4729-800d-6d834c6d626c/turtledance.gif?v=1716256252238",
+    "c": { "n": "MrBeast", "h": "@mrturtle" }
   },
-                    {
+  {
     "t": "hey how are ya",
-    "i":"https://res.cloudinary.com/djzalweis/image/upload/v1748119022/Fotolia_64349981_S_ov6dwu.jpg"
+    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1748119022/Fotolia_64349981_S_ov6dwu.jpg",
+    "c": { "n": "JimmEEEEE", "h": "@jimmo" }
   },
   {
     "t": "tortoise whom knows what you did",
-    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1748120649/turtlesssssss_nsbflb.jpg"
+    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1748120649/turtlesssssss_nsbflb.jpg",
+    "c": { "n": "boredtortoise", "h": "@boredtort" }
   },
-    {
+  {
     "t": "Why did the turtle cross the road?",
-    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1748398114/9ve8yp_khtycw.jpg"
+    "i": "https://res.cloudinary.com/djzalweis/image/upload/v1748398114/9ve8yp_khtycw.jpg",
+    "c": { "n": "TurtleJokes", "h": "@TurtleJokes" }
   }
 ]
