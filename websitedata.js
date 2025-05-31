@@ -2607,7 +2607,7 @@ var dataJSON = {
       title: "Fast.com",
       description: "View your internet speed",
       url: "https://fast.com",
-      keywords: "wifi speed, internet speed, fast",
+      keywords: "internet speed test, fast, wifi speed test",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=fast.com",
     },
     {
