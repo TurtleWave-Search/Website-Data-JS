@@ -102,6 +102,13 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                                                                        {
+      title: "Cool Math Games",
+      description: "Unblocked browser games for kids!",
+      url: "https://www.coolmathgames.com/",
+      keywords: "cool math games, coolmathgames, browser games, online games, web games",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=coolmathgames.com"
+    },
                                                                     {
       title: "Turtle Net",
       description: "Browse the most handsome turtles on the Internet on this classic-themed website.",
