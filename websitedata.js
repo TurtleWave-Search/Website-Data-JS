@@ -102,6 +102,13 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                                                                            {
+      title: "Squoosh",
+      description: "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
+      url: "https://squoosh.app",
+      keywords: "image compressor, compress images, squash, image optimizer",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=squoosh.app"
+    },
                                                                         {
       title: "Cool Math Games",
       description: "Unblocked browser games for kids!",
