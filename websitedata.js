@@ -102,6 +102,14 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                                                                                {
+      title: "The Hershey Company",
+      description: "The Man Behind Good Chocolate and Good Business. Milton S. Hershey left us with a legacy of goodness—a legacy that lives on today in each of our employees.",
+      url: "https://www.thehersheycompany.com",
+      keywords: "chocolate, hershey park, amusement parks, hershey's",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=thehersheycompany.com",
+      subpages: ": https://www.thehersheycompany.com/en_us/home/brands.html"
+    },
                                                                             {
       title: "Squoosh",
       description: "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
