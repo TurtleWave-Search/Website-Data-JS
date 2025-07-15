@@ -1587,14 +1587,6 @@ var dataJSON = {
         "obs studio, obs-studio, livestream software, live-stream software, live stream software, recording software, recording-software",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://www.obsproject.com",
     },
-    {
-      title: "Hershey's",
-        description: "Welcome to Hersheyland, your go-to dessert destination for tasty recipes, celebration ideas and family activities. Find a special treat to bake with your kiddos. Plan an awesome party. Re-discover your favorite Hershey brands. Hersheyland is full of ways to make life a little sweeter!",
-      url: "https://www.hersheyland.com/",
-      keywords:
-        "candy bar, candy, candy-bar, chocolate, hersheys, hershey, hershey's, hershey land, hersheyland, hershey-land",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=https://www.hersheyland.com/",
-    },
                                                                             {
       title: "Virtual Box",
         description: "Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3.",
