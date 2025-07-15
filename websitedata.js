@@ -102,11 +102,19 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                                                                                    {
+      title: "Mars, Incorporated",
+      description: "Helping create a safe, healthy and sustainable world for our partners and communities.",
+      url: "https://www.mars.com",
+      keywords: "chocolate, mars, incorporated, food, snacks, candy",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=mars.com",
+      subpages: ": /our-brands"
+    },
                                                                                 {
       title: "Hershey Land",
       description: "Hersheyland is home to our favorite dessert recipes, the latest candy innovations and endless sweet inspiration, from everyday treats to special occasion.",
       url: "https://www.hersheyland.com",
-      keywords: "chocolate, hershey park, amusement parks, hershey's",
+      keywords: "chocolate, food, snacks, hershey park, amusement parks, hershey's, candy",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=hersheyland.com",
       subpages: ": /brands"
     },
