@@ -61,7 +61,7 @@ const searchbar1 = document.getElementById("searchbar");
       "Yahoo!", "LinkedIn", "NAVER", "Baidu", "Superbowl", "NFL", "NHL", "Football", "Detect America", "Metal Detecting", "Makerworld",
       "Thingiverse", "EPIC! E-Books", "E-Books", "ShellSurfer", "Neal.Fun", "TurtleWave Graveyard", "Browser games", "TurtleWave Play",
       "Regular Show", "IMDb", "Is TurtleWave Search a virus?", "Fast food", "Healthy food", "Coins", "U.S. Mint", "PC shopping",
-      "Console Gaming", "Xbox", "Playstation", "Star Wars", "Jokes", "Fun facts", "Best Buy", "Flip a coin"
+      "Console Gaming", "Xbox", "Playstation", "Star Wars", "Jokes", "Fun facts", "Best Buy", "Flip a coin", "Hershey's"
     ];
 
  function autosuggestions() {
