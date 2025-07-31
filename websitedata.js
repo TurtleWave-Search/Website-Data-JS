@@ -106,7 +106,7 @@ var dataJSON = {
       title: "Faith Grid",
       description: "Faith Grid provides many useful tools to strengthen your relationship with Jesus",
       url: "https://faithgrid.netlify.app",
-      keywords: "bible, christian, Jesus, god, salvation",
+      keywords: "bible, christian, Jesus, god, salvation, gospel",
       icon: "https://res.cloudinary.com/djzalweis/image/upload/v1754000143/pixil-frame-0_xuzqsp.png",
       subpages: ": /bible, /gospel"
     },
