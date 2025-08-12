@@ -270,7 +270,7 @@ if (bypassDirectResult === "true") {
   document.getElementById("botFrame").style = "border-radius:25px; border:none; background-color:gray; width:500px; height:375px;";
   }
 }
-if (isMobileDevice5151) {
+if (isMobileDevice5151()) {
     const botFrame = document.getElementById("botFrame");
     const botFrameHideButton = document.getElementById("BotFrameHideButton");
     if (botFrame) {
