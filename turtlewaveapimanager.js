@@ -14,8 +14,12 @@ const resultembed = urlParams.get("resultem");
 console.log("Query is " + query);
 
 function isMobileDevice5151() {
-    return /Mobi|Android|phone/.test(navigator.userAgent);
+  const ua = navigator.userAgent.toLowerCase();
+  const ismobileagent = /android|iphone|ipad|ipod|mobile/.test(ua);
+  const smallscreenthing = window.innerWidth <= 768;
+  return ismobileagent || smallscreenthing;
 }
+
 if (!isMobileDevice5151()) {
     document.getElementById("summaryMobileButton")?.remove();
 }
