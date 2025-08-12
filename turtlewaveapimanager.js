@@ -19,18 +19,15 @@ function isMobileDevice5151() {
 if (!isMobileDevice5151()) {
     document.getElementById("summaryMobileButton")?.remove();
 } else {
-    const voicesearchimage = document.getElementById("voicesearchimage");
     const botFrame = document.getElementById("botFrame");
     const botFrameHideButton = document.getElementById("BotFrameHideButton");
-    if (voicesearchimage) {
-        voicesearchimage.style.width = "35px";
-    }
     if (botFrame) {
-        botFrame.style.width = "90vw";
+        botFrame.style.width = "100vw";
+        botFrame.style.borderRadius = "0"; 
     }
     if (botFrameHideButton) {
-        botFrameHideButton.style.width = "90vw";
-        botFrameHideButton.style.borderRadius = "25px";
+        botFrameHideButton.style.width = "100vw"; 
+        botFrameHideButton.style.borderRadius = "0";
     }
 }
 function stringToUnicodeCodes(str) {
