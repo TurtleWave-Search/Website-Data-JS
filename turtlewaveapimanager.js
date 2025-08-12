@@ -138,11 +138,13 @@ if (queryLower.includes("news")) {
     document.getElementById("botFrame").src = "https://turtwave.netlify.app/presentation.html";
 } else if (queryLower === "easter.egg.turtle") {
     document.getElementById("botFrame").src = "https://turtlewave-updates.glitch.me/eastereggs.html";
+} else if (queryLower.includes("pronounc") || queryLower.includes("how to say")) {
+    document.getElementById("botFrame").src = "https://turtwave.netlify.app/embed/pronounce.html";
 } else if (botframeData && botframeData === "hide") {
     document.getElementById("botFrame").remove();
     document.getElementById("BotFrameHideButton").remove();
 }
-     if (document.getElementById("botFrame") && !queryLower.includes("weather") && (document.getElementById("botFrame").src === "https://turtlewave.netlify.app/beta/helpbot/ultra.html" || document.getElementById("botFrame").src === "https://turtlewave.netlify.app/beta/helpbot/voice.html") && (document.getElementById("secret-button") === null || document.getElementById("secret-button").textContent === "Easter egg")) {
+     if (document.getElementById("botFrame") && !queryLower.includes("weather") && document.getElementById("botFrame").src.includes("/beta/helpbot") && (!document.getElementById("secret-button") || document.getElementById("secret-button").textContent === "Easter egg")) {
     document.getElementById("botFrame").style.display = "none";
     document.getElementById("BotFrameHideButton").remove();
 }   else {
