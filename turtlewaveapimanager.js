@@ -18,17 +18,6 @@ function isMobileDevice5151() {
 }
 if (!isMobileDevice5151()) {
     document.getElementById("summaryMobileButton")?.remove();
-} else {
-    const botFrame = document.getElementById("botFrame");
-    const botFrameHideButton = document.getElementById("BotFrameHideButton");
-    if (botFrame) {
-        botFrame.style.width = "100vw";
-        botFrame.style.borderRadius = "0"; 
-    }
-    if (botFrameHideButton) {
-        botFrameHideButton.style.width = "100vw"; 
-        botFrameHideButton.style.borderRadius = "0";
-    }
 }
 function stringToUnicodeCodes(str) {
    let encodedQuery = "";
@@ -280,6 +269,18 @@ if (bypassDirectResult === "true") {
         document.getElementById("botFrame").src = "https://turtlewave-quicksearch.glitch.me/embeds/helpbot-car.html";
   document.getElementById("botFrame").style = "border-radius:25px; border:none; background-color:gray; width:500px; height:375px;";
   }
+}
+if (isMobileDevice5151) {
+    const botFrame = document.getElementById("botFrame");
+    const botFrameHideButton = document.getElementById("BotFrameHideButton");
+    if (botFrame) {
+        botFrame.style.width = "100vw";
+        botFrame.style.borderRadius = "0"; 
+    }
+    if (botFrameHideButton) {
+        botFrameHideButton.style.width = "100vw"; 
+        botFrameHideButton.style.borderRadius = "0";
+    }
 }
   if (query.toLowerCase().includes("what is") || query.toLowerCase().includes("who was") || query.toLowerCase().includes("meaning of") || query.toLowerCase().includes("of") || query.toLowerCase().includes("what does") || query.toLowerCase().includes("what is the") || query.toLowerCase().includes("meaning of") || query.toLowerCase().includes("what is a")  || query.toLowerCase().includes("what was") || query.toLowerCase().includes("who is") || query.toLowerCase().includes("who were") || query.toLowerCase().includes("what were") || query.toLowerCase().includes("what are")) {
   var newapikeyword = query.toLowerCase();
