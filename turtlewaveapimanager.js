@@ -131,9 +131,10 @@ if (queryLower.includes("news")) {
 } else if (queryLower.includes("pronounc") || queryLower.includes("how to say")) {
     document.getElementById("botFrame").src = "https://turtwave.netlify.app/embed/pronounce.html";
 } else {
-    if (document.getElementById("secret-button").textContent.trim() !== "Easter egg") {return}
+    if (!document.getElementById("secret-button") || document.getElementById("secret-button").textContent.trim() === "Easter egg") {
     document.getElementById("botFrame").remove();
     document.getElementById("BotFrameHideButton").remove();
+  }
 }
 
  };
