@@ -123,7 +123,7 @@ if (queryLower.includes("news")) {
 }  else if (queryLower === "tell me a joke" || queryLower === "jokes") {
     document.getElementById("botFrame").src = "https://turtwave.netlify.app/embed/joke.html";
 } else if (queryLower === "sandbox") {
-    document.getElementById("botFrame").src = "https://storing-assets.glitch.me/tw-play/sandbox.html";
+    document.getElementById("botFrame").src = "https://turtwave.netlify.app/play/local/sandbox.html";
 } else if (queryLower === "marco polo twave") {
     document.getElementById("botFrame").src = "https://turtwave.netlify.app/presentation.html";
 } else if (queryLower === "easter.egg.turtle") {
