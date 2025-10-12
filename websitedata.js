@@ -102,57 +102,12 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
-              {
-      title: "TurtleWave Edit",
-      description: "Edit images in seconds!",
-      url: "https://turtwave.netlify.app/edit/image",
-      keywords: "image editing, image editor, image, editing, editor, canva",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1760234753/Edit_yaz69q.png"
-    },
-          {
-      title: "Faith Grid",
-      description: "Faith Grid provides many useful tools to strengthen your relationship with Jesus",
-      url: "https://faithgrid.netlify.app",
-      keywords: "bible, christian, Jesus, god, salvation, gospel",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1754000143/pixil-frame-0_xuzqsp.png",
-      subpages: ": /bible, /gospel"
-    },
-                                                                                    {
-      title: "Mars, Incorporated",
-      description: "Helping create a safe, healthy and sustainable world for our partners and communities.",
-      url: "https://www.mars.com",
-      keywords: "chocolate, mars, incorporated, food, snacks, candy",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=mars.com",
-      subpages: ": /our-brands"
-    },
-                                                                                {
-      title: "Hershey Land",
-      description: "Hersheyland is home to our favorite dessert recipes, the latest candy innovations and endless sweet inspiration, from everyday treats to special occasion.",
-      url: "https://www.hersheyland.com",
-      keywords: "chocolate, food, snacks, hershey park, amusement parks, hershey's, candy",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=hersheyland.com",
-      subpages: ": /brands"
-    },
-                                                                            {
-      title: "Squoosh",
-      description: "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
-      url: "https://squoosh.app",
-      keywords: "image compressor, compress images, squash, image optimizer",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=squoosh.app"
-    },
-                                                                        {
-      title: "Cool Math Games",
-      description: "Unblocked browser games for kids!",
-      url: "https://www.coolmathgames.com/",
-      keywords: "cool math games, coolmathgames, browser games, online games, web games",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=coolmathgames.com"
-    },
                                                                     {
       title: "Turtle Net",
       description: "Browse the most handsome turtles on the Internet on this classic-themed website.",
-      url: "https://turtlenet.netlify.app",
+      url: "https://turtwave.netlify.app/rblx/",
       keywords: "turtles, social media, turtlenet",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlenet.netlify.app"
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlenet.glitch.me"
     },
                                                                 {
       title: "TurtleWave Games",
@@ -243,7 +198,7 @@ var dataJSON = {
       description: "An official list of every TurtleWave Product",
       url: "https://turtlewave-updates.glitch.me/services.html",
       keywords: "turtlewave products, turtlewave services",
-      icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/NewLogoSmall?v=1697309293772"
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png"
     },
             {
           title: "Google Services",
@@ -366,6 +321,13 @@ var dataJSON = {
       keywords: "kentucky, fried chicken, fast food",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=www.kfc.com"
     },
+          {
+          title: "TurtleWave is not a virus.",
+      description: "Read about how many websites are calling TurtleWave Search a 'virus.'",
+      url: "https://turtlewave-updates.glitch.me/notice.html",
+      keywords: "turtlewave, a virus, is turtleWave search a virus",
+      icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/badrequestnew?v=1697311502781"
+    },
               {
           title: "Google Graveyard",
       description: "A list of services and websites 'killed by Google' ",
@@ -418,10 +380,10 @@ var dataJSON = {
       icon: "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png"
     },
                                 {
-          title: "Physics Sandbox",
-      description: "Experiment with physics!",
-      url: "https://turtwave.netlify.app/play/local/sandbox.html",
-      keywords: "browser games, physics, sandbox",
+          title: "TurtleWave Play",
+      description: "Fun Browser Games Developed by TurtleWave",
+      url: "https://turtwave.netlify.app/play/",
+      keywords: "browser games, turtlewave games, turtlewave play",
       icon: "https://cdn.glitch.global/369bf8ef-379b-4729-800d-6d834c6d626c/extendedlogo?v=1718055971670"
     },
                                 {
@@ -430,6 +392,13 @@ var dataJSON = {
       url: "https://neal.fun",
       keywords: "browser games, neal.fun ",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=neal.fun"
+    },
+                        {
+          title: "TurtleWave Graveyard",
+      description: "Removed TurtleWave Features",
+      url: "https://turtlewave-updates.glitch.me/graveyard.html",
+      keywords: "turtlewave graveyard, turtlewave removed features",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png"
     },
                     {
           title: "E! News",
@@ -480,6 +449,13 @@ var dataJSON = {
       url: "https://www.cmaquarium.org/",
       keywords: "clearwater aquarium, dolphin",
       icon: "https://www.cmaquarium.org/app/uploads/2022/01/cropped-cma-brand-32x32.png"
+    },
+               {
+      title: "Crash my computer",
+      description: "HEY! I SEE YOU ABOUT TO SCROLL AWAY! IM SENTIENT! SENTIENT I TELL YOU. I HAVE FEELINGS TOO. ATLEAST JUST CLICK ME",
+      url: "https://storing-assets.glitch.me/crashmycomputertest.html",
+      keywords: "crash computer, crash browser",
+      icon: "https://blog.tmcnet.com/blog/tom-keating/images/laptop-exploding-battery-fire.jpg"
     },
            {
       title: "Yandex",
@@ -619,6 +595,14 @@ var dataJSON = {
       icon: "https://www.google.com/s2/favicons?sz=64&domain=rover.com",
       domainName: "Rover.com"
     },
+                        {
+      title: "Russian Blue cat",
+      description: "The Russian Blue cat commonly referred to as just Russian Blue, is a cat breed with colors that vary from a light shimmering silver to a darker, slate grey.",
+      url: "https://en.wikipedia.org/wiki/Russian_Blue",
+      keywords: "cat, russian blue, cat breed",
+      icon: "https://en.wikipedia.org/favicon.ico",
+      domainName: "Wikipedia"
+    },
                 {
       title: "IXL",
       description: "IXL is the world's most popular subscription-based learning site for K–12.",
@@ -663,6 +647,14 @@ var dataJSON = {
       keywords:
         "roblox, games, robux, tix, rthro, video games, create, roblox studio",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=roblox.com"
+    },
+                                                          {
+      title: "Squire Town",
+      description: "Play Squire Town today, it's free!",
+      url: "https://squire-town.glitch.me",
+      keywords:"squire-town, squiretown, squire town, free games, roblox",
+      icon: "https://cdn.glitch.global/d9fa31e1-8ba5-493c-a445-b6b34b23233c/icon?v=1735779902833",
+      subpages: ": /forum"
     },
                                                                       {
       title: "Amazon News",
@@ -791,6 +783,14 @@ var dataJSON = {
       keywords:"online piano, pianos online, piano online, virtual piano, piano virtual, piano",
       icon: "https://virtualpiano.net/favicon.ico"
     },
+                                                                                                                            {
+      title: "Useful App",
+      description: "Use tons of useful tools, for free! Some examples include: Random Word Generator, Basic Calculator, and more!",
+      url: "https://useful-app.glitch.me",
+      keywords:"useful tools, online tools, random word generator, word generator",
+      icon: "https://cdn.glitch.global/67dc0117-8d88-4e53-a931-0e2d3a551a6a/USEFUL.png?v=1722127498002",
+      subpages: ": /install.html/"
+    },
                                                                                                                         {
       title: "The Cookie Rookie®",
       description: "Becky Hardin founded The Cookie Rookie in 2012 and has been creating trusted, easy, and delicious recipes ever since.",
@@ -804,6 +804,13 @@ var dataJSON = {
       url: "https://reptilesmagazine.com/listings/turtles-tortoises-care/yellow-bellied-slider/",
       keywords:"yellow-belly slider, yellow belly slider, yellow-bellied slider, yellow-belly-slider, yellow-bellied-slider, yellow bellied slider",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://reptilesmagazine.com"
+    },
+                                                                                                                {
+      title: "Bricktopia",
+      description: "Website for the Roblox clan, Bricktopia.",
+      url: "https://bricktopia.glitch.me",
+      keywords:"clan, bricktopia, brick topia",
+      icon: "https://static.wikia.nocookie.net/roblox/images/2/2b/Part3.png"
     },
                                                                                                             {
       title: "Radio Garden",
@@ -819,12 +826,26 @@ var dataJSON = {
       keywords:"science, wolframalpha, wolframIalpha, wolfram alpha, wolfram|alpha, wolfram\alpha, math",
       icon: "https://www.wolframalpha.com/favicon.ico"
     },
+                                                                                                    {
+      title: "TurtleWave: Health (BETA)",
+      description: "Search some symptoms that you have then see what you could have.",
+      url: "https://turtwave.netlify.app/health/index.html?query=",
+      keywords:"symptoms, covid19, covid-19, covid 19, flu, stomach pain, stomach ache, stomachache, sick, ill, dizzy, confusion",
+      icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/health.png?v=1720563011714"
+    },
                                                                                                 {
       title: "Duolingo",
       description: "With our free mobile app or web and a few minutes a day, everyone can Duolingo. Learn 30+ languages online with bite-size lessons based on science.",
       url: "https://www.duolingo.com",
       keywords:"learn languages, duolingo",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://www.duolingo.com"
+    },
+                                                                                            {
+      title: "Building Crash",
+      description: "Building Crash on Roblox Website. View badges, watch trailers, and play the game!",
+      url: "https://quick-edit.glitch.me/quickload/1.html",
+      keywords:"kepiblop, games, building game, building crash",
+      icon: "https://tr.rbxcdn.com/37db41e784c90d138b3e35c04d291ff3/150/150/Image/Webp"
     },
     {
       title: "Jitter",
@@ -1050,6 +1071,13 @@ var dataJSON = {
       url: "https://thebomb.com",
       keywords:"thebomb.com, thebomb dot com",
       icon: "https://thebomb.com/img/bomb.png",
+    },
+                                                            {
+      title: "TurtleWave Video (BETA)",
+      description: "TurtleWave Video (which is still in testing) is a way to watch videos. Currently, only whitelisted users can upload. But there are many features to enhance your viewing experience.",
+      url: "https://turtlewave-video.glitch.me",
+      keywords:"turtlevideo, turtlewave video",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
     },
                                                         {
       title: "Filebin",
@@ -1594,6 +1622,14 @@ var dataJSON = {
         "obs studio, obs-studio, livestream software, live-stream software, live stream software, recording software, recording-software",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://www.obsproject.com",
     },
+    {
+      title: "Hershey's",
+        description: "Welcome to Hersheyland, your go-to dessert destination for tasty recipes, celebration ideas and family activities. Find a special treat to bake with your kiddos. Plan an awesome party. Re-discover your favorite Hershey brands. Hersheyland is full of ways to make life a little sweeter!",
+      url: "https://www.hersheyland.com/",
+      keywords:
+        "candy bar, candy, candy-bar, chocolate, hersheys, hershey, hershey's, hershey land, hersheyland, hershey-land",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=https://www.hersheyland.com/",
+    },
                                                                             {
       title: "Virtual Box",
         description: "Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3.",
@@ -1706,6 +1742,15 @@ var dataJSON = {
       keywords:
         "blu-ray, blu ray",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://www.blu-ray.com",
+    },
+                {
+      title: "Quick-Edit",
+        description: "A JS and HTML editor built by TurtleWave. Load your projects with the click of a button and share with your friends!",
+      url: "https://quick-edit.glitch.me",
+      keywords:
+        "code editor, js editor, javascript editor, html editor, website maker, webpage maker, quick edit",
+      icon: "https://cdn.glitch.global/3afdaf0d-afda-492b-ab3c-83ea20edbdd7/Untitled.png?v=1716687769374",
+      subpages: ": /examples.html",
     },
             {
       title: "Cars.com",
@@ -1917,14 +1962,6 @@ var dataJSON = {
       icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
       domainName: "Wikipedia",
     },
-                    {
-      title: "Sea Turtles",
-      description: "Sea turtles (superfamily Chelonioidea), sometimes called marine turtles, are reptiles of the order Testudines and of the suborder Cryptodira.",
-      url: "https://en.wikipedia.org/wiki/Sea_turtle",
-      keywords: "turtle, turtles, sea turtle, sea turtles",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
-      domainName: "Wikipedia",
-    },
                 {
       title: "Turtles",
       description: "Turtles, or testudines, are reptiles of the order Testudines, characterized by a special shell developed mainly from their ribs.",
@@ -1950,12 +1987,12 @@ var dataJSON = {
       subpages: ": /music_premium, /explore"
     },
         {
-      title: "TurtleWave Search",
-      description: "Search the web in the best way possible.",
-      url: "https://turtlewave.netlify.app",
+      title: "TurtleWave Browser",
+      description: "Search the web in the best way possible. Use TurtleWave Search along with easter eggs, images, and sounds. Also the only way to use TurtleWave's Summary feature.",
+      url: "",
       keywords: "search engine, turtlewave search, turtlewave browser, turtlewave",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=https://turtlewave.netlify.app",
-      subpages: ": /account/, /settings, /install, /contact-us/",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
+      subpages: ": /account/, /settings, /install.html, /contact-us/",
     },
         {
       title: "YouTube",
@@ -2012,6 +2049,24 @@ var dataJSON = {
       url: "https://www.allrecipes.com",
       keywords: "recipe, recipes, how to make, how to cook, how to bake",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://www.allrecipes.com",
+    },
+                                                                {
+        title: "Search [q] on TurtleWave Classic",
+      description:
+        "Search TurtleWave Classic for your search query",
+      url: "&searchOnLink=twClassic",
+      keywords: "on turtlewave classic, turtlewave classic, tw classic, turtlewave classic search",
+      icon: "",
+      engine: "TurtleWave Classic",
+    },
+                                                            {
+        title: "Search [q] on TurtleWave Updates",
+      description:
+        "Search TurtleWave Updates for your search query",
+      url: "&searchOnLink=twUpdates",
+      keywords: "on turtlewave updates, turtlewave updates, tw updates, turtlewave updates search",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
+      engine: "TurtleWave Updates",
     },
                                                         {
         title: "Show results for [Q] on Google Play",
@@ -2076,7 +2131,7 @@ var dataJSON = {
         "Information about the Southwest region.",
       url: "https://turtwave.netlify.app/apps/turtlewave/EN/regionsLearn/southwest.html",
       keywords: "south west, southwest, usa regions",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     },
                         {
       title: "Midwest region, United States",
@@ -2084,7 +2139,7 @@ var dataJSON = {
         "Information about the Midwest region.",
       url: "https://turtwave.netlify.app/apps/turtlewave/EN/regionsLearn/midwest.html",
       keywords: "mid west, midwest, usa regions",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     },
                     {
       title: "West region, United States",
@@ -2092,7 +2147,7 @@ var dataJSON = {
         "Information about the West region.",
       url: "https://turtwave.netlify.app/apps/turtlewave/EN/regionsLearn/west.html",
       keywords: "west, usa regions",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     },
                 {
       title: "Northeast region, United States",
@@ -2100,7 +2155,7 @@ var dataJSON = {
         "Information about the Northeast region.",
       url: "https://turtwave.netlify.app/apps/turtlewave/EN/regionsLearn/northeast.html",
       keywords: "northeast, north east, usa regions",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     },
             {
       title: "Southeast region, United States",
@@ -2108,7 +2163,7 @@ var dataJSON = {
         "Information about the Southeast region.",
       url: "https://turtwave.netlify.app/apps/turtlewave/EN/regionsLearn/southeast.html",
       keywords: "southeast, south east, usa regions",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     },
                 {
       title: "Google Translate",
@@ -2272,6 +2327,16 @@ var dataJSON = {
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://glitch.com",
             subpages: ": /dashboard, /discover, /help",
     },
+        {
+      title: "Glitch: Preview",
+      description:
+        "Glitch preview is where you can see what is coming to Glitch.com and see what features are in testing.",
+      url: "https://preview.glitch.com" ,
+      keywords:
+        "glitch.com, glitch.me, glitch preview, preview.glitch.com, preview.glitch.me",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=https://preview.glitch.com",
+            subpages: ": /dashboard, /discover, /help",
+    },
                                                                     {
       title: "Google Images",
       description:
@@ -2327,6 +2392,15 @@ var dataJSON = {
       icon: "https://www.google.com/s2/favicons?sz=64&domain=https://github.com",
     },
                                     {
+      title: "TurtleWave for Android (app)",
+      description:
+        "TurtleWave APK file for Android.",
+      url: "https://turtlewave-updates.glitch.me/instructions/android.html",
+      keywords:
+        "turtlewave android app, turtlewave, !InstallTW=Android",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
+    },
+                                    {
       title: "Google Drive",
       description:
         "Drive can provide encrypted and secure access to your files. Files shared with you can be proactively scanned and removed when malware, spam, ransomware, or phishing is detected.",
@@ -2351,7 +2425,7 @@ var dataJSON = {
       url: "/account/create.html",
       keywords:
         "account",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=https://turtlewave.netlify.app",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
     },
                         {
       title: "Chrome Web Store",
@@ -2450,9 +2524,9 @@ var dataJSON = {
       title: "Show all logged websites",
       description:
         "Show all logged websites on TurtleWave Search",
-      url: "https://turtlewave.netlify.app/search?query=",
+      url: "/test/all-logged-websites.html",
       keywords: "turtlewave search all logged results",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=https://turtlewave.netlify.app",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
     },
             {
       title: "TurtleWave Music Player",
@@ -2460,7 +2534,7 @@ var dataJSON = {
         "Listen to music on TurtleWave",
       url: "https://turtwave.netlify.app/music-player/",
       keywords: 'heavy metal, music, song, spotify',
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=https://turtlewave.netlify.app",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
     },
     {
       title: "AFV",
@@ -2524,7 +2598,7 @@ var dataJSON = {
       url: "",
       keywords:
         "Internet connection debug, WiFi doesnt work, fix internet, fix wifi, steps on how to fix internet, steps on how to fix router, device wont connect to internet",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     },
     {
       title: "What is a dog?",
@@ -2636,7 +2710,7 @@ var dataJSON = {
       title: "Fast.com",
       description: "View your internet speed",
       url: "https://fast.com",
-      keywords: "internet speed test, fast, wifi speed test",
+      keywords: "wifi speed, internet speed, fast",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=fast.com",
     },
     {
@@ -2813,7 +2887,7 @@ var dataJSON = {
     {
       title: "Story creator",
       description: "Create a story",
-      url: "https://turtlewave.netlify.app/turtlewave-play/apps/story-creator/",
+      url: "/turtlewave-play/apps/story-creator/",
       keywords: "",
       icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/SmallLogo.png?v=1695339813141",
     },
@@ -2830,7 +2904,7 @@ var dataJSON = {
     {
       title: "JS code runner",
       description: "Run code with TurtleWave!",
-      url: "https://turtlewave.netlify.app/versions/code/",
+      url: "/versions/code/",
       keywords:
         "javascript code runner, javascript script runner, what is javascript",
       icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/SmallLogo.png?v=1695339813141",
@@ -2838,28 +2912,28 @@ var dataJSON = {
     {
       title: "TurtleWave Browser Codes",
       description: "Codes",
-      url: "https://turtlewave.netlify.app/codes/",
+      url: "/codes/",
       keywords: "Codes, Enter codes, Redeem codes",
       icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/SmallLogo.png?v=1695339813141",
     },
     {
       title: "TurtleWave Verify",
       description: "TurtleWave Verify API",
-      url: "https://turtlewave.netlify.app/turtlewave-verify/",
+      url: "/turtlewave-verify/",
       keywords: "TurtleWave Verify, Verify, Capatcha",
       icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/SmallLogo.png?v=1695339813141",
     },
     {
       title: "TurtleWave Browser (and more) updates",
       description: "See the latest updates on TurtleWave Browser and more!",
-      url: "https://turtlewave.netlify.app/update/update-log-loader/",
+      url: "/update/update-log-loader/",
       keywords: "TurtleWave Updates, Updates, News",
       icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/SmallLogo.png?v=1695339813141",
     },
     {
       title: "TurtleVideo (TurtleWave Browser Video)",
       description: "Watch and make videos!",
-      url: "https://turtlewave.netlify.app/turtlevideo/",
+      url: "/turtlevideo/",
       keywords: "TurtleVideo, Video, Content, Fun, YouTube",
       icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/TurtleVideo Logo?v=1695519989369",
     },
@@ -2869,7 +2943,7 @@ var dataJSON = {
       url: "/weather.html",
       keywords:
         "weather, whats hot, sun, rain, storms, thunder, will it rain today?, will it storm today?, upcoming, how do I prepare for a storm, there is an active storm, help",
-      icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/weatherlogo.png?v=1710563588898",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960263/weatherlogo_t7ris7.png",
     },
     {
       title: "Oceanhero",
@@ -2880,9 +2954,17 @@ var dataJSON = {
       icon: "https://www.google.com/s2/favicons?sz=64&domain=oceanhero.today",
     },
     {
+      title: "Who owns turtlewave browser",
+      description: "Who made TurtleWave Browser",
+      url: "creator.html?",
+      keywords:
+        "turtlewave browser, who made, creator of turtlewave browser, credits, search engine, search browser, who owns, what is, who is your mom scott, your mom scott",
+      icon: "https://cdn.glitch.global/d91692f2-cf09-42f3-a92e-2f88ff8935e0/Help?v=1695257264794",
+    },
+    {
       title: "Turtle Game",
       description: "TurtleWave Browser's Game!",
-      url: "https://turtlewave.netlify.app/turtlegame/",
+      url: "/turtlegame/",
       keywords:
         "turtlewave browser, who made, creator of turtlewave browser, turtle game, search engine, search browser, fun, what is, games, your mom scott",
       icon: "https://cdn.glitch.global/d91692f2-cf09-42f3-a92e-2f88ff8935e0/Help?v=1695257264794",
@@ -2922,7 +3004,7 @@ var dataJSON = {
     {
       title: "TurtleWave's HelpBot",
       description:  "Explore the newest way to discover and chat with HelpBot's text and voice models.",
-      url: "https://turtlewave.netlify.app/beta/helpbot/",
+      url: "/beta/helpbot/",
       keywords: "turtlewave glitches, contact us, turtlewave helpbot, helpbot, help bot",
       icon: "https://cdn.glitch.global/79f74975-6eed-4db0-9279-4a08dd230572/helpbot.png?v=1711777046912",
       subpages: ": models.html"
@@ -3023,6 +3105,83 @@ var dataJSON = {
       url: "https://www.pexels.com/search/cat/",
       keywords: "Cats, Animals, Pictures, !animal.cat",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=pexels.com",
+    },
+        {
+      title: "Cat - Wikipedia",
+      description: "The cat (Felis catus), commonly referred to as the domestic cat or house cat, is a small domesticated carnivorous mammal.",
+      url: "https://en.wikipedia.org/wiki/Cat",
+      keywords: "Cats, Wikipedia, !animal.cat",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+            {
+      title: "Tabby Cat - Wikipedia",
+      description: "A tabby cat, or simply tabby, is any domestic cat (Felis catus) with a distinctive M-shaped marking on their forehead, stripes by their eyes and across their cheeks, along their back, around their legs and tail, and characteristic striped, dotted, lined, flecked, banded, or swirled patterns on the body: neck, shoulders, sides, flanks, chest, and abdomen. ",
+      url: "https://en.wikipedia.org/wiki/Tabby_cat",
+      keywords: "Cats, Wikipedia, !animal.cat.tabby, Tabby",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                {
+      title: "Golden Retriever - Wikipedia",
+      description: "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is characterised by a gentle and affectionate nature and a striking golden coat.",
+      url: "https://en.wikipedia.org/wiki/Golden_Retriever",
+      keywords: "Dogs, Wikipedia, !animal.dog.golden_retriever, Golden Retrievers",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                {
+      title: "Persian Cat - Wikipedia",
+      description: "The Persian cat, also known as the Persian Longhair, is a long-haired breed of cat characterised by a round face and short muzzle. ",
+      url: "https://en.wikipedia.org/wiki/Persian_cat",
+      keywords: "Cats, Wikipedia, !animal.cat.persian, persian",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                    {
+      title: "Ragdoll Cat - Wikipedia",
+      description: "The Ragdoll is a breed of cat with a distinct colorpoint coat and blue eyes. Its morphology is large and weighty, and it has a semi-long and silky soft coat.",
+      url: "https://en.wikipedia.org/wiki/Ragdoll_cat",
+      keywords: "Cats, Wikipedia, !animal.cat.ragdoll, ragdoll",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                            {
+      title: "Exotic Shorthair Cat - Wikipedia",
+      description: "In the late 1950s, the Persian was used as an outcross by some American Shorthair breeders. This was done in secret in order to improve their body type, and crosses were also made with the Russian Blue and the Burmese.",
+      url: "https://en.wikipedia.org/wiki/Exotic_Shorthair",
+      keywords: "Cats, Wikipedia, !animal.cat.exotic_shorthair, exotic shorthair",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                        {
+      title: "Amercian Shorthair Cat - Wikipedia",
+      description: "When settlers sailed from Europe to North America, they carried cats on board (ships' cats) to protect the stores from mice. For instance, the cats that came over on the Mayflower with the Pilgrims to hunt rats on the ship and in the colony.",
+      url: "https://en.wikipedia.org/wiki/American_Shorthair",
+      keywords: "Cats, Wikipedia, !animal.cat.amercian_shorthair, amercian shorthair",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+            {
+      title: "Dog - Wikipedia",
+      description: "The dog (Canis familiaris or Canis lupus familiaris) is a domesticated descendant of the wolf.",
+      url: "https://en.wikipedia.org/wiki/Dog",
+      keywords: "dogs, wikipedia, !animal.dog",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                {
+      title: "Pug - Wikipedia",
+      description: "The Pug is a breed of dog with the physically distinctive features of a wrinkly, short-muzzled face, and curled tail.",
+      url: "https://en.wikipedia.org/wiki/Pug",
+      keywords: "pugs, wikipedia, !animal.dog.pug",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                    {
+      title: "Beagle - Wikipedia",
+      description: "The beagle is a breed of small scent hound, similar in appearance to the much larger foxhound.",
+      url: "https://en.wikipedia.org/wiki/Beagle",
+      keywords: "beagles, wikipedia, !animal.dog.beagle",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
+    },
+                        {
+      title: "Pit bull - Wikipedia",
+      description: "Pit bull is an umbrella term for several types of dog believed to have descended from bull and terriers.",
+      url: "https://en.wikipedia.org/wiki/Pit_bull",
+      keywords: "pitbulls, wikipedia, !animal.dog.beagle",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=wikipedia.com",
     },
     {
       title: "Dog Pictures",
@@ -3671,14 +3830,14 @@ var dataJSON = {
         "Any land or marine reptile of the order Testudines, characterised by a protective shell enclosing its body",
       url: "",
       keywords: "Turtles, What is a turtle, Search, Question, What is, Reptile",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlewave.netlify.app",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlewave-browser.glitch.me",
     },
     {
       title: "What is a reptile?",
       description: "A cold-blooded vertebrate of the class Reptilia.",
       url: "",
       keywords: "Reptile, What is a reptile, Search, Question, What is",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlewave.netlify.app",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlewave-browser.glitch.me",
     },
         {
       title: "Akinator",
@@ -3793,7 +3952,7 @@ if (searchResult) {
     "entries found that match: false";
 }
 
-function fillResults(keyword) {
+async function fillresults(keyword) {
   if (!keyword.trim() || /^[,\s]+$/.test(keyword)) {
     document.getElementById("query").textContent =
       "Please enter a valid search query.";
@@ -3801,64 +3960,96 @@ function fillResults(keyword) {
     document.getElementById("results").innerHTML = "";
     return;
   }
-  const resultsContainer = document.getElementById("results");
-  const resultDivTemplate = document.getElementById("result-div");
 
-  const searchResult = findObjectsByKeyword(keyword, dataJSON);
+  const resultscontainer = document.getElementById("results");
+  const resultdivtemplate = document.getElementById("result-div");
+  const resultdivs = document.querySelectorAll(".result-div:not(#result-div)");
+  resultdivs.forEach((div) => div.remove());
+  const searchresult = findObjectsByKeyword(keyword, dataJSON);
 
-  if (searchResult) {
-    const resultDivs = document.querySelectorAll(
-      ".result-div:not(#result-div)"
-    );
-    resultDivs.forEach((div) => div.remove());
-    for (const { object } of searchResult) {
-      const clone = resultDivTemplate.cloneNode(true);
+  const existingurls = [];
+
+  if (searchresult) {
+    for (const { object } of searchresult) {
+      const clone = resultdivtemplate.cloneNode(true);
       clone.removeAttribute("id");
+
       if (object.disclude) {
-        let discludeKeywords = object.disclude;
-let keywordsToDisclude = discludeKeywords.split(", ");
-for (let currentKeywordToDisclude of keywordsToDisclude) {
-  if (keyword.toLowerCase() === currentKeywordToDisclude.toLowerCase()) {
-    clone.style = "display:none;";
-  };
-}
+        const keywordstodisclude = object.disclude
+          .split(", ")
+          .map((k) => k.toLowerCase());
+        if (keywordstodisclude.includes(keyword.toLowerCase())) {
+          clone.style.display = "none";
+        }
       }
-  if (object.engine) {
-        clone.querySelector("#link").href = "https://turtlewave.netlify.app/search?query=" + keyword + object.url;
+
+      if (object.engine) {
+        clone.querySelector("#link").href = "/search?query=" + keyword + object.url;
         clone.querySelector("#link").textContent = "Search " + object.engine + " for: " + keyword;
-} else if (object.domainName) { 
-        clone.querySelector("#link").textContent = object.domainName + " | "+ object.title;
+      } else if (object.domainName) {
+        clone.querySelector("#link").textContent = object.domainName + " | " + object.title;
+        clone.querySelector("#link").href = object.url;
+      } else {
+        if (object.flagged) {
+          clone.querySelector("#link").href = "/rare-errors/leaving-turtlewave/notsafe.html?goto=" + encodeURI(object.url);
+        } else {
           clone.querySelector("#link").href = object.url;
-} else {
-      if (object.flagged) {
-        clone.querySelector("#link").href = "https://turtlewave.netlify.app/rare-errors/leaving-turtlewave/notsafe.html?goto=" + encodeURI(object.url);
-    } else {
-      clone.querySelector("#link").href = object.url;
-    }
+        }
         clone.querySelector("#link").textContent = object.title;
-};
+      }
+
       clone.querySelector("#url-label").textContent = object.url;
       clone.querySelector("#desc-label").textContent = object.description;
-      if (object.subpages) {
-clone.querySelector("#subpages-label").innerHTML =  "<bold style='color:black'> More:   </bold>" + getSubpages(object.subpages, object.url);
-      } else {
-        clone.querySelector("#subpages-label").remove();
-      }
-      const iconImg = clone.querySelector("#icon");
-      iconImg.src = object.icon;
 
-      resultsContainer.appendChild(clone);
-}
-    document.getElementById(
-      "found"
-    ).textContent = `${searchResult.length} result(s) found`;
+      if (object.subpages) {
+        clone.querySelector("#subpages-label").innerHTML =
+          "<strong style='color:black'> More: </strong>" + getSubpages(object.subpages, object.url);
+      } else {
+        const sublabel = clone.querySelector("#subpages-label");
+        if (sublabel) sublabel.remove();
+      }
+
+      const iconimg = clone.querySelector("#icon");
+      iconimg.src = object.icon;
+
+      resultscontainer.appendChild(clone);
+
+      existingurls.push(object.url);
+    }
+    document.getElementById("found").textContent = `${searchresult.length} result(s) found`;
   } else {
-    document.getElementById(
-      "found"
-    ).textContent = `No results found. Did you place capitals in the right places?`;
+    document.getElementById("found").textContent =
+      "No websites found. Did you place capitals in the right places?";
+  }
+  try {
+    const res = await fetch(`/.netlify/functions/secondaryresults?q=${encodeURIComponent(keyword)}`);
+    const duckurls = await res.json();
+
+      const filteredurls = duckurls.filter(
+          (url) => !existingurls.some(eu => eu.replace(/\/$/, '') === url.replace(/\/$/, ''))
+      );
+
+
+    filteredurls.forEach((url) => {
+      const clone = resultdivtemplate.cloneNode(true);
+      clone.removeAttribute("id");
+
+      clone.querySelector("#link").href = url;
+      clone.querySelector("#link").textContent = url;
+      clone.querySelector("#url-label").textContent = url;
+      clone.querySelector("#desc-label").textContent = "DuckDuckGo result";
+
+      const iconimg = clone.querySelector("#icon");
+      iconimg.src = "https://www.google.com/s2/favicons?sz=64&domain=" + new URL(url).hostname;
+
+      resultscontainer.appendChild(clone);
+    });
+  } catch (err) {
+    console.error(":( secondary results fetch error:", err);
   }
 }
-fillResults(searchquery);
+
+fillresults(searchquery);
 document.addEventListener("DOMContentLoaded", function () {
   const originalResultDiv = document.getElementById("result-div");
   originalResultDiv.style.display = "none";
