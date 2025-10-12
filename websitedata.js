@@ -102,6 +102,13 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+              {
+      title: "TurtleWave Edit",
+      description: "Edit images in seconds!",
+      url: "https://turtwave.netlify.app/edit/image",
+      keywords: "image editing, image editor, image, editing, editor, canva",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1754000143/pixil-frame-0_xuzqsp.png"
+    },
           {
       title: "Faith Grid",
       description: "Faith Grid provides many useful tools to strengthen your relationship with Jesus",
