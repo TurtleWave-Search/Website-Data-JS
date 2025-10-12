@@ -105,7 +105,7 @@ var dataJSON = {
                                                                     {
       title: "Turtle Net",
       description: "Browse the most handsome turtles on the Internet on this classic-themed website.",
-      url: "https://turtwave.netlify.app/rblx/",
+      url: "https://turtlenet.netlify.app",
       keywords: "turtles, social media, turtlenet",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlenet.glitch.me"
     },
@@ -392,13 +392,6 @@ var dataJSON = {
       url: "https://neal.fun",
       keywords: "browser games, neal.fun ",
       icon: "https://www.google.com/s2/favicons?sz=64&domain=neal.fun"
-    },
-                        {
-          title: "TurtleWave Graveyard",
-      description: "Removed TurtleWave Features",
-      url: "https://turtlewave-updates.glitch.me/graveyard.html",
-      keywords: "turtlewave graveyard, turtlewave removed features",
-      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1747960051/NewLogoSmall_tohsor.png"
     },
                     {
           title: "E! News",
@@ -1071,13 +1064,6 @@ var dataJSON = {
       url: "https://thebomb.com",
       keywords:"thebomb.com, thebomb dot com",
       icon: "https://thebomb.com/img/bomb.png",
-    },
-                                                            {
-      title: "TurtleWave Video (BETA)",
-      description: "TurtleWave Video (which is still in testing) is a way to watch videos. Currently, only whitelisted users can upload. But there are many features to enhance your viewing experience.",
-      url: "https://turtlewave-video.glitch.me",
-      keywords:"turtlevideo, turtlewave video",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
     },
                                                         {
       title: "Filebin",
@@ -1987,11 +1973,11 @@ var dataJSON = {
       subpages: ": /music_premium, /explore"
     },
         {
-      title: "TurtleWave Browser",
+      title: "TurtleWave Search",
       description: "Search the web in the best way possible. Use TurtleWave Search along with easter eggs, images, and sounds. Also the only way to use TurtleWave's Summary feature.",
-      url: "",
+      url: "https://turtlewave.netlify.app",
       keywords: "search engine, turtlewave search, turtlewave browser, turtlewave",
-      icon: "https://www.google.com/s2/favicons?sz=64&domain=",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=turtlewave.netlify.app",
       subpages: ": /account/, /settings, /install.html, /contact-us/",
     },
         {
