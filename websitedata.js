@@ -112,7 +112,7 @@ var dataJSON = {
             {
       title: "GoSwift",
       description: "Developed by TurtleWave Search, this URL shortener is privacy-focused, fast, and secure.",
-      url: "https://goswifter.netlify.app",
+      url: "https://goswift.turtlewave.dev",
       keywords: "url shortener, shorten urls, bitly, bit.ly, goswifter, go swifter",
       icon: "https://res.cloudinary.com/djzalweis/image/upload/v1762488760/Untitled_kdo1f6.png"
     },
