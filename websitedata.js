@@ -102,6 +102,20 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                {
+      title: "Bitly",
+      description: "Leading in URL Shortening since 2008",
+      url: "https://bit.ly",
+      keywords: "url shortener, shorten urls, bitly, bit.ly",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=bit.ly"
+    },
+            {
+      title: "GoSwift",
+      description: "Developed by TurtleWave Search, this URL shortener is privacy-focused, fast, and secure.",
+      url: "https://goswifter.netlify.app",
+      keywords: "url shortener, shorten urls, bitly, bit.ly, goswifter, go swifter",
+      icon: "https://res.cloudinary.com/djzalweis/image/upload/v1762488760/Untitled_kdo1f6.png"
+    },
                                                                         {
       title: "Turtlewave Edit",
       description: "Edit images in seconds",
