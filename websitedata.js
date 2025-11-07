@@ -119,7 +119,7 @@ var dataJSON = {
                                                                         {
       title: "Turtlewave Edit",
       description: "Edit images in seconds",
-      url: "https://turtwave.netlify.app/edit/image",
+      url: "https://edit.turtlewave.dev/",
       keywords: "image editing, image editor, canva, edit images",
       icon: "https://res.cloudinary.com/djzalweis/image/upload/v1760234753/Edit_yaz69q.png"
     },
