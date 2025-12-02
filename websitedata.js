@@ -102,6 +102,13 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                    {
+      title: "Squish-City",
+      description: "An ad-free retro social media with no modern greedy excess",
+      url: "https://squish-city.com",
+      keywords: "squish town, squish city, social media, games, gaming",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=squish-city.com"
+    },
                 {
       title: "Bitly",
       description: "Leading in URL Shortening since 2008",
