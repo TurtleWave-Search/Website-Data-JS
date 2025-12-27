@@ -102,6 +102,13 @@ function findObjectsByKeyword(keywordToSearch, data) {
 
 var dataJSON = {
   queries: [
+                        {
+      title: "GameStop",
+      description: "Shop GameStop, the world's largest retail gaming and trade-in destination for Xbox, PlayStation, and Nintendo games, systems, consoles & accessories.",
+      url: "https://www.gamestop.com/",
+      keywords: "gamestop, game store, video game store, xbox, playstation, nintendo, game consoles, consoles",
+      icon: "https://www.google.com/s2/favicons?sz=64&domain=gamestop.com"
+    },
                     {
       title: "Squish-City",
       description: "An ad-free retro social media with no modern greedy excess",
