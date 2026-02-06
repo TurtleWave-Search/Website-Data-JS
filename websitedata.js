@@ -415,11 +415,11 @@ var dataJSON = {
       icon: "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png"
     },
                                 {
-          title: "TurtleWave Play",
-      description: "Fun Browser Games Developed by TurtleWave",
-      url: "https://turtwave.netlify.app/play/",
+      title: "TurtleWave Games",
+      description: "Games that you can play in your browser (secondary domain: twavegames.vercel.app)",
+      url: "https://games.turtlewave.dev",
       keywords: "browser games, turtlewave games, turtlewave play",
-      icon: "https://cdn.glitch.global/369bf8ef-379b-4729-800d-6d834c6d626c/extendedlogo?v=1718055971670"
+      icon: "https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f422.png"
     },
                                 {
           title: "Neal.Fun",
