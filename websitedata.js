@@ -415,8 +415,8 @@ var dataJSON = {
       icon: "https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/favicon_desktop_32x32._CB1582158068_.png"
     },
                                 {
-      title: "TurtleWave Web Games",
-      description: "Games that you can play in your browser (secondary domain: twavegames.vercel.app)",
+      title: "TurtleWave Play",
+      description: "Games that you can play in your browser (secondary domain: twavegames.vercel.app/home.html)",
       url: "https://games.turtlewave.dev",
       keywords: "browser games, turtlewave games, turtlewave play",
       icon: "https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f422.png"
