@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "name": "Web Development",
+      "projects": [
+        {
+          "title": "This Website",
+          "desc": "The website you're visiting right now",
+          "img": "https://tse1.explicit.bing.net/th/id/OIP.iAt81DowCNcdO8wMdkRdAwHaHS",
+          "link": "/index.html"
+        },
+        {
+          "title": "TurtleWave Search",
+          "desc": "A simple search-engine. My first web project ever.",
+          "img": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
+          "link": "https://turtlewave.netlify.app"
+        },
+        {
+          "title": "TurtleNet",
+          "desc": "2000s-themed social-media where you can ONLY post turtles.",
+          "img": "https://res.cloudinary.com/djzalweis/image/upload/v1748664341/image_lgzju7.png",
+          "link": "https://www.turtlenet.club"
+        },
+        {
+          "title": "GoSwift",
+          "desc": "A simple but fast URL shortener.",
+          "img": "https://res.cloudinary.com/djzalweis/image/upload/v1762488760/Untitled_kdo1f6.png",
+          "link": "https://goswift.turtlewave.dev"
+        },
+        {
+          "title": "TurtleWave Edit",
+          "desc": "A simple image editor",
+          "img": "",
+          "link": "https://edit.turtlewave.dev"
+        }
+      ]
+    },
+    {
+      "name": "Roblox Development",
+      "projects": [
+        {
+          "title": "Superpower City",
+          "desc": "A semi-popular Superpower game.",
+          "img": "https://tr.rbxcdn.com/180DAY-de15cb8a8e3ef2bf81385ae2a93cc671/256/256/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/18851875951/Superpower-City"
+        }
+      ]
+    },
+    {
+      "name": "Apps",
+      "projects": [
+        {
+          "title": "Shell Surfer",
+          "desc": "A web-browser built on Electron.",
+          "img": "https://cdn.glitch.global/369bf8ef-379b-4729-800d-6d834c6d626c/Icon.ico",
+          "link": "https://turtwave.netlify.app/shell-surf"
+        }
+      ]
+    },
+    {
+      "name": "Chrome Extensions",
+      "projects": [
+        {
+          "title": "NoMoreScroll",
+          "desc": "Blocks doomscrolling sites.",
+          "img": "https://lh3.googleusercontent.com/voKg2uLEELg8T4uxK9_bZeKXsMkb4DuuP9gEt3_BDSG0yc4GLJDPojMhdfRzUcQIoxemzncZMT6uBBezjrAk3yV7Iw=s60",
+          "link": "https://chromewebstore.google.com/detail/nomorescroll/akjmnphemkgphfehbihimnopjopbablf"
+        }
+      ]
+    }
+  ]
+}
