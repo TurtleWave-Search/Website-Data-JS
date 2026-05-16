@@ -32,6 +32,42 @@
           "desc": "A simple image editor",
           "img": "",
           "link": "https://edit.turtlewave.dev"
+        },
+        {
+          "title": "TurtleWave Chat",
+          "desc": "A very simple and privacy-focused chat service",
+          "img": "https://res.cloudinary.com/djzalweis/image/upload/v1763238405/Chat_p60zie.png",
+          "link": "https://chat.turtlewave.dev"
+        },
+        {
+          "title": "Faith Grid",
+          "desc": "A Christian-based website with online features, an online Bible, and more. A few of my friends wanted me to make this.",
+          "img": "https://res.cloudinary.com/djzalweis/image/upload/v1754000143/pixil-frame-0_xuzqsp.png",
+          "link": "https://goswift.turtlewave.dev"
+        },
+        {
+          "title": "Feedback-inator",
+          "desc": "Uses AI to give feedback on how your webpage looks and functions",
+          "img": "",
+          "link": "https://feedbackinator.turtlewave.dev"
+        },
+        {
+          "title": "NoRobotsAllowed",
+          "desc": "A fun little game where you have to get past many obstacles to prove you're a human, starting easy (with a CAPTCHA) then getting continously harder. This project no longer exists due to Glitch shutting down.",
+          "img": "",
+          "link": "https://no-robots.glitch.me"
+        },
+        {
+          "title": "Squire Town",
+          "desc": "A 2D website where you could create and play tiny games with a default character. This included collisions, forums, and more but no longer exists due to Glitch shutting down.",
+          "img": "",
+          "link": "https://squire-town.glitch.me"
+        },
+        {
+          "title": "And so much more",
+          "desc": "There's too many to include, most of them being discontinued because of the Glitch shutdown or I just don't care about them anymore",
+          "img": "",
+          "link": ""
         }
       ]
     },
@@ -40,7 +76,7 @@
       "projects": [
         {
           "title": "Superpower City",
-          "desc": "A semi-popular Superpower game.",
+          "desc": "A semi-popular Superpower game. The player count here isn't really stable, like, at all; some weeks it averages 50+ and some weeks it averages 10. This is only game I'm including here because all my other games suck.",
           "img": "https://tr.rbxcdn.com/180DAY-de15cb8a8e3ef2bf81385ae2a93cc671/256/256/Image/Webp/noFilter",
           "link": "https://www.roblox.com/games/18851875951/Superpower-City"
         }
@@ -51,7 +87,7 @@
       "projects": [
         {
           "title": "Shell Surfer",
-          "desc": "A web-browser built on Electron.",
+          "desc": "A web-browser built on Electron. It comes with no data-collection or mandatory accounts (but I keep procrastinating updates for it lol).",
           "img": "https://cdn.glitch.global/369bf8ef-379b-4729-800d-6d834c6d626c/Icon.ico",
           "link": "https://turtwave.netlify.app/shell-surf"
         }
@@ -62,9 +98,21 @@
       "projects": [
         {
           "title": "NoMoreScroll",
-          "desc": "Blocks doomscrolling sites.",
+          "desc": "A customizable extension that lets you block common doomscrolling/endless media sites and custom URLs.",
           "img": "https://lh3.googleusercontent.com/voKg2uLEELg8T4uxK9_bZeKXsMkb4DuuP9gEt3_BDSG0yc4GLJDPojMhdfRzUcQIoxemzncZMT6uBBezjrAk3yV7Iw=s60",
           "link": "https://chromewebstore.google.com/detail/nomorescroll/akjmnphemkgphfehbihimnopjopbablf"
+        },
+        {
+          "title": "Faith Grid: Extended",
+          "desc": "An addon to Faith Grid that allows you to use some of the features on other sites and other Faith Grid-related features.",
+          "img": "https://lh3.googleusercontent.com/a2SCvBP6O6b2jCmoKfr3Ztmg-Z4j-45aXuHnjDbUsqiuCv5gJ2h36YYpmKhNpE0Qw8oxBjEeK5jHwvJv1rGbyRubvA=s60",
+          "link": "https://chromewebstore.google.com/detail/faith-grid-extended/mmigobjmbhdnfflackebgiegojcbeohj"
+        },
+        {
+          "title": "Search with TurtleWave",
+          "desc": "Sets your default search engine to TurtleWave Search",
+          "img": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
+          "link": "https://chromewebstore.google.com/detail/turtlewave-search/pogifpdbhckbplbmkbcanocicellkghc"
         }
       ]
     }
