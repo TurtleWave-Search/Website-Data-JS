@@ -29,9 +29,21 @@
         },
         {
           "title": "TurtleWave Edit",
-          "desc": "A simple image editor",
+          "desc": "A very simple and completely local image editor & compressor",
           "img": "",
           "link": "https://edit.turtlewave.dev"
+        },
+        {
+          "title": "TurtleWave Games",
+          "desc": "Simple webgames you can play in your browser",
+          "img": "",
+          "link": "https://games.turtlewave.dev"
+        },
+        {
+          "title": "TurtleWave Takes",
+          "desc": "Share quotes & non-political takes with other users anonymously",
+          "img": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1778636272/twavetakes_wz2cla.png",
+          "link": "https://takes.turtlewave.dev"
         },
         {
           "title": "TurtleWave Chat",
