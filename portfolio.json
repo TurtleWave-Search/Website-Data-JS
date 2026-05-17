@@ -99,9 +99,9 @@
       "projects": [
         {
           "title": "Shell Surfer",
-          "desc": "A web-browser built on Electron. It comes with no data-collection or mandatory accounts (but I keep procrastinating updates for it lol).",
-          "img": "https://cdn.glitch.global/369bf8ef-379b-4729-800d-6d834c6d626c/Icon.ico",
-          "link": "https://turtwave.netlify.app/shell-surf"
+          "desc": "A fast web-browser built on Electron with Chromium web viewing (but not a Chromium base). It comes with no data collection or mandatory accounts.",
+          "img": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1778970391/6cf49a1c-b01f-416a-a891-d1194da0f334-8_dw2o4b.png",
+          "link": "https://shellsurf.turtlewave.dev"
         }
       ]
     },
