@@ -84,17 +84,6 @@
       ]
     },
     {
-      "name": "Roblox Development",
-      "projects": [
-        {
-          "title": "Superpower City",
-          "desc": "A semi-popular Superpower game. The player count here isn't really stable, like, at all; some weeks it averages 50+ and some weeks it averages 10. This is only game I'm including here because all my other games suck.",
-          "img": "https://tr.rbxcdn.com/180DAY-de15cb8a8e3ef2bf81385ae2a93cc671/256/256/Image/Webp/noFilter",
-          "link": "https://www.roblox.com/games/18851875951/Superpower-City"
-        }
-      ]
-    },
-    {
       "name": "Apps",
       "projects": [
         {
@@ -102,6 +91,29 @@
           "desc": "A fast web-browser built on Electron with Chromium web viewing (but not a Chromium base). It comes with no data collection or mandatory accounts.",
           "img": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1778970391/6cf49a1c-b01f-416a-a891-d1194da0f334-8_dw2o4b.png",
           "link": "https://shellsurf.turtlewave.dev"
+        }
+      ]
+    },
+        {
+      "name": "Mods for Games",
+      "projects": [
+        {
+          "title": "Minecraft Mods (Modrinth)",
+          "desc": "I've created several Minecraft mods on both Modrinth and Curseforge using various tools, including Java",
+          "img": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
+          "link": "https://modrinth.com/user/BayTurtleKing"
+        },
+                {
+          "title": "Minecraft Mods (Curseforge)",
+          "desc": "I've created several Minecraft mods on both Modrinth and Curseforge using various tools, including Java",
+          "img": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/logos/Homepage_Gameplay-Trailer_MC-OV-logo_300x300.png",
+          "link": "https://www.curseforge.com/members/bayturtleking/projects"
+        },
+                        {
+          "title": "TABS mods",
+          "desc": "I've created a Totally Accurate Battle Simulator mod using C#",
+          "img": "https://images.squarespace-cdn.com/content/v1/55dc59cae4b07dc2ebbe3ea3/1615538637888-H4V1HY6ALZOT1SDBOCBU/Tabs_Logo1.png?format=2500w",
+          "link": "https://thunderstore.io/c/totally-accurate-battle-simulator/p/BayTurtleKing/"
         }
       ]
     },
@@ -125,6 +137,17 @@
           "desc": "Sets your default search engine to TurtleWave Search",
           "img": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
           "link": "https://chromewebstore.google.com/detail/turtlewave-search/pogifpdbhckbplbmkbcanocicellkghc"
+        }
+      ]
+    },
+        {
+      "name": "Roblox Development",
+      "projects": [
+        {
+          "title": "Superpower City",
+          "desc": "A semi-popular Superpower game. The player count here isn't really stable, like, at all; some weeks it averages 50+ and some weeks it averages 10. This is only game I'm including here because all my other games suck.",
+          "img": "https://tr.rbxcdn.com/180DAY-de15cb8a8e3ef2bf81385ae2a93cc671/256/256/Image/Webp/noFilter",
+          "link": "https://www.roblox.com/games/18851875951/Superpower-City"
         }
       ]
     }
