@@ -4,7 +4,7 @@
     "l": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     "a": "https://turtlewave.dev",
     "d": "A series of web projects developed by BayTurtleKing",
-    "k": "turtle, bayturtleking"
+    "k": "turtle, bayturtleking, turtlewave"
   },
     {
     "t": "TurtleWave Search",
@@ -18,7 +18,7 @@
     "l": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1778964848/twaveedit_nmc5h7.png",
     "a": "https://edit.turtlewave.dev",
     "d": "An image editor & compressor part of TurtleWave",
-    "k": "photo, image, editor, canva"
+    "k": "photo, image, editor, canva, turtlewave"
   },
     {
     "t": "Turtle Net",
@@ -33,7 +33,7 @@
     "l": "https://res.cloudinary.com/djzalweis/image/upload/v1762488760/Untitled_kdo1f6.png",
     "a": "https://goswift.turtlewave.dev",
     "d": "Shorten URLs in seconds with no privacy concerns",
-    "k": "url shorten, shorten url, goswift, url"
+    "k": "url shorten, shorten url, goswift, url, turtlewave"
   },
       {
     "t": "FaithGrid",
@@ -47,13 +47,13 @@
     "l": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1778636272/twavetakes_wz2cla.png",
     "a": "https://takes.turtlewave.dev",
     "d": "Share quotes & non-political takes with other users anonymously",
-    "k": "quotes, takes, social media, hot takes"
+    "k": "quotes, takes, social media, hot takes, turtlewave"
   },
           {
     "t": "TurtleWave Chat",
     "l": "https://res.cloudinary.com/djzalweis/image/upload/v1763238405/Chat_p60zie.png",
     "a": "https://chat.turtlewave.dev",
     "d": "Chat with other users without worrying about privacy",
-    "k": "chat, social, messenger, messenges"
+    "k": "chat, social, messenger, messenges, turtlewave"
   }
 ]
