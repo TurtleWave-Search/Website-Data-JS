@@ -19,5 +19,41 @@
     "a": "https://edit.turtlewave.dev",
     "d": "An image editor & compressor part of TurtleWave",
     "k": "photo, image, editor, canva"
+  },
+    {
+    "t": "Turtle Net",
+    "l": "https://res.cloudinary.com/djzalweis/image/upload/v1748664341/image_lgzju7.png",
+    "a": "https://www.turtlenet.club",
+    "d": "Social media based around turtles",
+    "k": "social media, turtles, tortoises, youtube, instagram, tiktok, turtlenet"
+  },
+    },
+    {
+    "t": "GoSwift",
+    "l": "https://res.cloudinary.com/djzalweis/image/upload/v1762488760/Untitled_kdo1f6.png",
+    "a": "https://goswift.turtlewave.dev",
+    "d": "Shorten URLs in seconds with no privacy concerns",
+    "k": "url shorten, shorten url, goswift, url"
+  },
+      {
+    "t": "FaithGrid",
+    "l": "https://res.cloudinary.com/djzalweis/image/upload/v1754000143/pixil-frame-0_xuzqsp.png",
+    "a": "https://faithgrid.netlify.app",
+    "d": "Tools to enhance your Christian faith",
+    "k": "bible, faith, jesus, god"
+  },
+        {
+    "t": "TurtleWave Takes",
+    "l": "https://res.cloudinary.com/dmuudpnkx/image/upload/v1778636272/twavetakes_wz2cla.png",
+    "a": "https://takes.turtlewave.dev",
+    "d": "Share quotes & non-political takes with other users anonymously",
+    "k": "quotes, takes, social media, hot takes"
+  },
+          {
+    "t": "TurtleWave Chat",
+    "l": "https://res.cloudinary.com/djzalweis/image/upload/v1763238405/Chat_p60zie.png",
+    "a": "https://chat.turtlewave.dev",
+    "d": "Chat with other users without worrying about privacy",
+    "k": "chat, social, messenger, messenges"
   }
 ]
