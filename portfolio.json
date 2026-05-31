@@ -10,8 +10,8 @@
           "link": "/index.html"
         },
         {
-          "title": "TurtleWave Search",
-          "desc": "A simple search-engine. My first web project ever.",
+          "title": "TurtleWave Search Reimagined",
+          "desc": "The remake of TurtleWave Search classic. More lightweight, quick, and better results.",
           "img": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
           "link": "https://turtlewave.netlify.app"
         },
@@ -74,6 +74,12 @@
           "desc": "A 2D website where you could create and play tiny games with a default character. This included collisions, forums, and more but no longer exists due to Glitch shutting down.",
           "img": "",
           "link": "https://squire-town.glitch.me"
+        },
+                {
+          "title": "TurtleWave Search (Classic)",
+          "desc": "A simple search-engine. My first web project ever.",
+          "img": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
+          "link": "https://turtlewave.netlify.app"
         },
         {
           "title": "And so much more",
