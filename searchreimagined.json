@@ -4,7 +4,14 @@
     "l": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
     "a": "https://turtlewave.dev",
     "d": "A series of web projects developed by BayTurtleKing",
-    "k": "turtle, bayturtleking, search, google, search engine"
+    "k": "turtle, bayturtleking"
+  },
+    {
+    "t": "TurtleWave Search",
+    "l": "https://res.cloudinary.com/djzalweis/image/upload/v1747959967/NewLogoBig_qasvxi.png",
+    "a": "https://search.turtlewave.dev",
+    "d": "A basic search engine that requires no accounts. It is the direct reboot of the original TurtleWave Search, built from scratch.",
+    "k": "turtle, bayturtleking"
   },
   {
     "t": "TurtleWave Edit",
