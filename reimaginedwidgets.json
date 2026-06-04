@@ -1,0 +1,12 @@
+[
+  {
+    "t": "Color Picker",
+    "a": "/widgets/color.html",
+    "k": "color picker, colour picker, hex codes, hex picker, rgb picker"
+  },
+  {
+    "t": "Inspirational Quote",
+    "a": "/widgets/quote.html",
+    "k": "inspiration, inspirational message, quotee"
+  }
+]
