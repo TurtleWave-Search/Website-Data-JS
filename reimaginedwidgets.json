@@ -8,5 +8,10 @@
     "t": "Inspirational Quote",
     "a": "/widgets/quote.html",
     "k": "inspiration, inspirational message, quote, inspirational quote, random quote"
+  },
+    {
+    "t": "Random Fun Fact",
+    "a": "/widgets/funfact.html",
+    "k": "fun facts, random fun fact, tell me a fun fact, give me a fun fact"
   }
 ]
