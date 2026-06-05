@@ -13,5 +13,10 @@
     "t": "Random Fun Fact",
     "a": "/widgets/funfact.html",
     "k": "fun facts, random fun fact, tell me a fun fact, give me a fun fact, random fact"
+  },
+      {
+    "t": "Random Joke",
+    "a": "/widgets/joke.html",
+    "k": "dad joke, tell me a joke, tell me a dad joke, give me a joke, give me a dad joke, dad jokes"
   }
 ]
