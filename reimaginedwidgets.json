@@ -33,5 +33,10 @@
     "t": "Calculator",
     "a": "/widgets/calculator.html",
     "k": "sum of, product of, calculator, math, multiplied by, times , plus, minus"
+  },
+              {
+    "t": "Pronounce Helper",
+    "a": "/widgets/howtosay.html",
+    "k": "how to say, how to pronounce, pronounced, how do i pronounce, how do i say"
   }
 ]
