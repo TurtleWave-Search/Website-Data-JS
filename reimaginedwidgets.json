@@ -22,7 +22,7 @@
         {
     "t": "Flip a Coin",
     "a": "/widgets/coinflip.html",
-    "k": "coin flip, flip a coin, do a coin flip"
+    "k": "coin flip, flip a coin, do a coin flip, heads or tails"
   },
           {
     "t": "Random Number Generator",
