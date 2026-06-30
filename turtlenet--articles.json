@@ -2,7 +2,7 @@
     "articles": [
         {
             "h": "Slider Turtles",
-            "genre": "kind of turtle",
+            "genre": "a kind of turtle",
             "author": "Turtle Net",
             "sources": [
                 "https://www.animaldiversity.org/accounts/Trachemys_scripta/",
@@ -27,7 +27,7 @@
         },
         {
             "h": "Box Turtles versus Semi-aquatic Turtles",
-            "genre": "turtle",
+            "genre": "turtle-related",
             "author": "Turtle Net",
             "sources": [
                 "https://nationalzoo.si.edu/animals/eastern-box-turtle",
