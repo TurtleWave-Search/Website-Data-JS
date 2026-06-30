@@ -82,6 +82,27 @@
                 "Fun fact: Sea turtles have special salt glands near their eyes that remove extra salt from the seawater they drink. This can make them look as if they are crying, but they are actually getting rid of extra salt!",
                 "Fun fact 2: Sea turtles are great divers. While resting, some species can stay underwater for many hours by slowing their heart rate. During swimming or feeding, they usually surface much more often to breathe."
             ]
+        },
+                {
+            "h": "Snapper Turtles",
+            "genre": "broad turtle type (easy read)",
+            "author": "Turtle Net",
+            "sources": [
+                "https://www.tortoise.org/archives/snapping.html",
+                "https://www.exoticpetvet.com/common-snapping-turtle-care.html",
+                "https://fieldandstream.com/stories/conservation/wildlife-conservation/what-do-snapping-turtles-eat",
+                "https://www.farmanddairy.com/columns/egg-laying-season-for-snapping-turtles-is-upon-us"
+            ],
+            "content": [
+                "Snapper turtles are large freshwater turtles best known for their very strong jaws and defensive behavior when they feel threatened. They are part of the genus Chelydra (a genus is a group of related living things) and are commonly found in North America.",
+                "Snapper turtles live in slowly moving freshwater environments such as ponds, lakes, swamps, marshes, and rivers. They prefer to stay on the bottoms of the water body (which is often muddy) where they can hide and attack prey.",
+                "They mostly stay alone and are known for their defensive snapping behavior when out of water. In water, however, they are often calmer and rather prefer to avoid confrontation by other animals by staying hidden.",
+                "Snapper turtles are omnivores (eats both meats and plants) but eat more meat than many other freshwater turtles. They eat fish, amphibians, insects, worms, small mammals, carrion, and aquatic plants.",
+                "They can grow very big, with common snapping turtles reaching 20–45 inches (8-18 in) in shell length, while alligator snapping turtles can grow even bigger.",
+                "Female snapping turtles lay their eggs on land, lots of times traveling long distances from water just to find a good nesting site. A typical clutch (like a nest) may contain dozens of eggs. The peak seasons for snapper turtle egg laying are June and July.",
+                "Snapper turtles should not be messed with in the wild. When threatened, they may bite as a form of defense, but they usually prefer to retreat into water rather than attack.",
+                "In some areas, snapping turtles are considered invasive because they are not native there, often due to pet release."
+            ]
         }
     ]
 }
