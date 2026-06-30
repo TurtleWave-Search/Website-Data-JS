@@ -1,0 +1,45 @@
+{
+    "articles": [
+        {
+            "h": "Slider Turtles",
+            "genre": "kind of turtle",
+            "author": "Turtle Net",
+            "sources": [
+                "https://www.animaldiversity.org/accounts/Trachemys_scripta/",
+                "https://www.usgs.gov/publications/unusual-population-attributes-invasive-red-eared-slider-turtles-trachemys-scripta",
+                "https://nsglc.olemiss.edu/projects/invasivespecies/files/legal-case-study-red-eared-slider.pdf"
+            ],
+            "content": [
+                "Slider turtles are a group of freshwater pond turtles native to the central and southeastern United States and parts of Mexico. They are one of the most commonly recognized pet turtle groups in the world.",
+                "Quick facts: 1. Slider turtles can live 20–40 years ||| 2. they are omnivores that eat both plants and animals.",
+                "The three most common species are the Red-eared Slider, Yellow-bellied Slider, and Cumberland Slider. They are very related and share very similar behaviors and habitats.",
+                "As adults, they normally reach about 5–12 inches (which is 13–30 cm) in shell length, but it depends on the species and sex.",
+                "Slider turtles live in freshwater environments such as ponds, lakes, marshes, and slowly moving rivers. They heavily rely on basking areas like rocks and logs in order to regulate their body temperature, or keep their temperature balanced.",
+                "They are cold blooded reptiles, meaning they depend on external heat sources like sunlight and can not heat themselves. When under captivity, they require UVB lighting and heat lamps to stay healthy.",
+                "Their diet changes as they age. Younger sliders eat more protein filled foods, like insects and small fish, while adults eat more plants such as aquatic vegetation and algae.",
+                "Slider turtles are good swimmers and spend much of their time in water, but they often climb out to bask in the sun. Basking helps them dry their shells and absorb heat and UV light. They also need the heat since they are cold blooded.",
+                "In many parts of the world, especially outside their native range, slider turtles are considered invasive. They can compete with native species for food and habitat.",
+                "One major cause of their spread is pet release. People often release unwanted pet turtles into the wild, even if the animal isn't local to that area, which can harm local ecosystems and is illegal in most places.",
+                "As pets, slider turtles require large tanks, strong filtration systems, UVB lighting, and a longterm commitment since they can live for decades under good conditions.",
+                "Common misconceptions include that they can survive in small tanks or without UV light, which is false and often leads to health problems or even death in captivity.",
+                "Another fun fact is that slider turtles can recognize feeding routines and often respond to movement near their tank when they associate it with food. They remember who feeds them!"
+            ]
+        },
+        {
+            "h": "Box Turtles versus Semi-aquatic Turtles",
+            "genre": "turtle",
+            "author": "Turtle Net",
+            "sources": [
+                "https://nationalzoo.si.edu/animals/eastern-box-turtle",
+                "https://www.thepondguy.com/learning-center/freshwater-turtles-of-north-america/"
+            ],
+            "content": [
+                "Box turtles and semi-aquatic turtles are often confused for one-another. However, they are very different.",
+                "Semi-aquatic turtles includes all freshwater turtles, such as pond turtles (which also includes slider turtles and many more). They spend most of their time in water and are excellent swimmers. When kept as a pet, they require a large tank, a water filter, a UVB & heat light, and one or more basking platforms. They often live in freshwater environments like ponds, lakes, marshes, and slowly moving rivers. They come out of the water when they need to bask under the sun (often on a rock or log) since they are cold-blooded reptiles and need UVB light for their shell.",
+                "Box turtles can swim, but not as fast as aquatic turtles. They do not go in the water much and can only walk along the bottom of the water body or swim for a short distance. When kept as a pet, they require a large backyard with a large pond and fencing or another barrier so they can not escape. However, sometimes they can climb fences. They normally live in grassy areas, but often are found near freshwater water bodies, like ponds and streams because they need water to regulate their body temperature and to stay hydrated.",
+                "So, box turtles are mostly land turtles, while semi-aquatic turtles mostly live in the water. Furthermore, many box turtles are larger than most semi-aquatic turtles, but it depends.",
+                "Now, next time you see either of these turtle categories, you'll be able to identify them based off their behavior and location."
+            ]
+        }
+    ]
+}
