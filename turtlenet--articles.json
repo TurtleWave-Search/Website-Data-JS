@@ -1,5 +1,20 @@
 {
     "articles": [
+                {
+            "h": "What is Turtle Net?",
+            "genre": "Turtle Net as a platform",
+            "author": "Turtle Net",
+            "sources": [
+                "https://www.turtlenet.club"
+            ],
+            "content": [
+                "Turtle Net is dedicated to educate and entertain those who stumble across it.",
+                "It is designed as a place of quick and easy education on turtles, especially for younger people or those who do not have much of an understanding on turtles.",
+                "At the same time, it also serves as a form of entertainment and outlet of creativity by allowing users to explore, upload, and create posts related to turtles. By limiting the user to only uploading things related to turtles, they must truly use their creativity. At the same time, it may also provide educational value to those who view it.",
+                "Turtle Net is meant for users to come together under a single topic and a single cause, and that is turtles. It is meant for creativity, learning, and fun.",
+                "... It is meant for you."
+            ]
+        },
         {
             "h": "Slider Turtles",
             "genre": "a kind of turtle (easy read)",
