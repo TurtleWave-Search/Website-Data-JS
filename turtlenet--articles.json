@@ -1,6 +1,6 @@
 {
     "articles": [
-                {
+        {
             "h": "What is Turtle Net?",
             "genre": "Turtle Net as a platform",
             "author": "Turtle Net",
@@ -17,7 +17,7 @@
         },
         {
             "h": "Slider Turtles",
-            "genre": "a kind of turtle (easy read)",
+            "genre": "broad turtle type (easy read)",
             "author": "Turtle Net",
             "sources": [
                 "https://www.animaldiversity.org/accounts/Trachemys_scripta/",
@@ -54,6 +54,33 @@
                 "Box turtles can swim, but not as fast as aquatic turtles. They do not go in the water much and can only walk along the bottom of the water body or swim for a short distance. When kept as a pet, they require a large backyard with a large pond and fencing or another barrier so they can not escape. However, sometimes they can climb fences. They normally live in grassy areas, but often are found near freshwater water bodies, like ponds and streams because they need water to regulate their body temperature and to stay hydrated.",
                 "So, box turtles are mostly land turtles, while semi-aquatic turtles mostly live in the water. Furthermore, many box turtles are larger than most semi-aquatic turtles, but it depends.",
                 "Now, next time you see either of these turtle categories, you'll be able to identify them based off their behavior and location."
+            ]
+        },
+        {
+            "h": "Sea Turtles",
+            "genre": "broad turtle type (easy read)",
+            "author": "Turtle Net",
+            "sources": [
+                "https://www.fisheries.noaa.gov/sea-turtles",
+                "https://seaturtlespacecoast.org/what-do-sea-turtles-eat/",
+                "https://www.iucnredlist.org/",
+                "https://oceanservice.noaa.gov/facts/temperature-dependent.html",
+                "https://oliveridleyproject.org/ufaqs/how-many-eggs-does-a-sea-turtle-lay/",
+                "https://www.seaturtlestatus.org/sea-turtle-lifecycle"
+
+            ],
+            "content": [
+                "Sea Turtles are very unique. They are large with very big flippers to help them swim. They are found in lukewarm to hot salt water bodies like oceans. They are cold-blooded and need the environmental temperature (in this case, the water temperature) to be warm to survive, just like every other turtle. There are only 7 sea turtle species on the planet, and 6 of them can be found in the U.S.",
+                "There are seven living species of sea turtles: Green, Loggerhead, Leatherback, Hawksbill, Olive Ridley, Kemp's Ridley, and Flatback. Leatherbacks are the largest and can weigh over 450 kg (1,000 pounds). Kemp's Ridleys are the smallest and rarest (by population) sea turtle species. Unlike the others, Leatherbacks do not have a hard shell. Instead, they have a flexible, leathery shell.",
+                "As of June 2026, all species of sea turtles are protected under the U.S. Endangered Species Act. The Hawksbill and the Kemp's Ridley are labeled critically endangered on the <a href='https://www.iucnredlist.org/'>IUCN Red List</a>. The Leatherback, Loggerhead, and Olive Ridley are labeled vulnerable, with a less high risk. Green Sea Turtles are labeled simply endangered by the IUCN globally, but some specific, regional populations are labeled differently. Flatback sea turtles do not have enough population data to be given a label.",
+                "The diet depends on the species. According to seaturtlespacecost.com, Green sea turtles eat algae, seagrasses, and seaweed. Leatherbacks eat \"jellies and other soft-bodied invertebrates like tunicates and sea squirts\". Loggerheads eat crabs, conchs, whelks, and horseshoe crabs. Hawksbills eat mostly sea sponges. Olive Ridleys eat crabs, shrimp, lobster, sea urchins, jellies, algae, and fish. Kemp's Ridleys eat crabs, fish, jellies, shrimp, and mollusks. Flatbacks eat sea cucumbers, jellies, corals, shrimp, crabs, mollusks, fish, and seaweed.",
+                "Sea turtles generally only leave the water if they're a female needing to lay eggs. They typically lay about 110 eggs per nest, and females lay about 2 to 8 nests every season (March through October). The sex of the sea turtle depends on the temperature of the egg. If the egg is cooler or ~27.7°C (81.8°F), it will be male. If the egg is warmer or above 31°C (87.8°F), it will be female. Due to global warming, it is believed sea turtles are primarily female because female eggs hatch under warmer conditions. Sea turtles remember the beach they were born and often lay their own eggs there when they become old enough.",
+                "When baby sea turtles hatch, they usually emerge from the nest together at night or sunset. By instinct, they move toward the brightest visible light, which is normally the moonlight or sunset reflecting off the ocean. Unfortunately, bright lights from the opposite direction will confuse them.",
+                "Sea turtles have feeding grounds (also known as a foraging ground). This is the area where they will primarily eat and live in. However, sea turtles migrate very frequently and may travel hundreds or thousands of miles to lay eggs or mate. After laying eggs, female sea turtles return to their feeding grounds.",
+                "Sea turtles are long living reptiles. Although it is difficult to determine their exact age in the wild, a lot of scientists believe they can live for 50 years or more. Most species also take decades to reach adulthood before they begin reproducing.",
+                "Sea turtles face many threats. Plastic pollution (plastic bags look like jellyfish), fishing nets, boat strikes, coastal development, climate change, and poaching all contribute to declining populations. When they hatch, there are even more temporary dangers: birds, waves pushing them away, and more. Even artificial lights near beaches (like large skyscrapers) can confuse hatchlings, causing them to crawl away from the ocean instead of toward it. Most hatchlings that go away from the ocean sadly die from dehydration, exhaustion, predators, or vehicles, which reduces their chances of survival by a ton.",
+                "Fun fact: Sea turtles have special salt glands near their eyes that remove extra salt from the seawater they drink. This can make them look as if they are crying, but they are actually getting rid of extra salt!",
+                "Fun fact 2: Sea turtles are great divers. While resting, some species can stay underwater for many hours by slowing their heart rate. During swimming or feeding, they usually surface much more often to breathe."
             ]
         }
     ]
