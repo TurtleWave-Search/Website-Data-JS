@@ -16,6 +16,32 @@
             ]
         },
         {
+            "h": "A Proper Slider Turtle Diet",
+            "genre": "how to take care of your turtle (easy read)",
+            "author": "Turtle Net",
+            "sources": [
+                "https://www.animaldiversity.org/accounts/Trachemys_scripta/",
+                "https://tpwd.texas.gov/huntwild/wild/species/slider/",
+                "https://vcahospitals.com/know-your-pet/turtles-aquatic-feeding"
+            ],
+            "content": [
+                "A very common mistake in slider turtle care is the diet. Many owners unintentionally feed only pellets for long periods of time without realizing that turtles require a much more varied diet.",
+                "While pellets are an important part of a slider’s diet, feeding pellets exclusively can lead to longterm health issues. However, this is a very common situation and is usually due to misinformation rather than neglect.",
+                "Many pet stores recommend pellets as the main food source, but in reality, they should only make up a small portion of the overall diet. All slider turtles are omnivores, and their diet should be mostly leafy greens with smaller amounts of pellets and occasional treats.",
+                "For a healthy slider turtle, it helps to follow a consistent weekly feeding routine. The following is an example of a balanced schedule.",
+                "[ex.] On Monday, offer leafy greens such as dandelion greens or romaine lettuce. No pellets are needed.",
+                "[ex.] On Tuesday, offer another serving of greens, such as collard greens or mustard greens, to provide dietary variety and encourage healthy eating habits.",
+                "[ex.] On Wednesday, feed a small portion of pellets. This should be a limited meal rather than the main food source.",
+                "[ex.] On Thursday, return to leafy greens. Aquatic plants can also be offered if available.",
+                "[ex.] On Friday, offer leafy greens again. Consistency helps establish greens as the primary food source.",
+                "[ex.] On Saturday, offer another small pellet feeding.",
+                "[ex.] On Sunday, offer leafy greens or, optionally, give a light feeding break. Some keepers choose not to feed adult turtles every day, but this is not required.",
+                "Fruit such as strawberries should only be offered as an occasional treat, given once a month or less. While not exactly harmful in small amounts, fruit is high in sugar and low in the nutrients slider turtles need for a balanced diet",
+                "If a turtle is coming from a pellet heavy diet, lightly sprinkling crushed pellets over greens can help encourage eating at first. This should be slowly reduced over time so the turtle learns to eat greens on their own.",
+                "If your slider turtle has any special conditions, health concerns, or dietary restrictions, please consult a qualified reptile veterinarian for personalized advice for your turtle."
+            ]
+        },
+        {
             "h": "Slider Turtles",
             "genre": "broad turtle type (easy read)",
             "author": "Turtle Net",
@@ -33,7 +59,7 @@
                 "As adults, they normally reach about 5–12 inches (which is 13–30 cm) in shell length, but it depends on the species and sex.",
                 "(Diet under Captivity) Most slider turtles are omnivores, eating both meats and plants. When in captivity, you should feed them commercial turtle pellets as about 1/4 of their diet (as the animal protein portion), along with occasional protein sources such as earthworms, bloodworms, or small insects. Fruits should only be given as an occasional treat (such as a small piece of strawberry every 2–3 weeks), while the rest of their diet should consist mainly of leafy greens and vegetables. The best vegetables depend on the species, but commonly include dandelion greens as the top staple, along with others such as collard greens, romaine lettuce, mustard greens, and carrot tops. Instead of feeding the same foods every day, you should rotate them. For example: 2 days a week you may give pellets along with a small amount of mixed greens (dandelion, collard, romaine, carrot tops), 1 day higher-protein feeding (pellets plus earthworm or bloodworm), 1 day dandelion greens with a small amount of pellets, 1 day collard greens and romaine lettuce mix, 1 day mixed greens rotation, and 1 day light feeding or rest day. Any leftover food should be removed from the tank daily using something like a net to maintain proper water quality and hygiene. Younger slider turtles should receive more meats, while older ones should have a much more balanced diet. Fun fact: slider turtles are attracted to red foods, such as red bell peppers, which should only be given as an occasional treat.",
                 "(Natural Diet) Most slider turtles are omnivores, eating both meats and plants. Their diet changes as they age. Younger sliders eat more protein filled foods, like insects and small fish, while adults eat more plants such as aquatic vegetation and algae.",
-                "Slider turtles live in freshwater environments such as ponds, lakes, marshes, and slowly moving rivers. They heavily rely on basking areas like rocks and logs in order to regulate their body temperature, or keep their temperature balanced.", 
+                "Slider turtles live in freshwater environments such as ponds, lakes, marshes, and slowly moving rivers. They heavily rely on basking areas like rocks and logs in order to regulate their body temperature, or keep their temperature balanced.",
                 "They are cold blooded reptiles, meaning they depend on external heat sources like sunlight and can not heat themselves. When under captivity, they require UVB lighting and heat lamps to stay healthy.",
                 "Slider turtles are good swimmers and spend much of their time in water, but they often climb out to bask in the sun. Basking helps them dry their shells and absorb heat and UV light. They also need the heat since they are cold blooded.",
                 "In many parts of the world, especially outside their native range, slider turtles are considered invasive. They can compete with native species for food and habitat.",
@@ -72,7 +98,6 @@
                 "https://oceanservice.noaa.gov/facts/temperature-dependent.html",
                 "https://oliveridleyproject.org/ufaqs/how-many-eggs-does-a-sea-turtle-lay/",
                 "https://www.seaturtlestatus.org/sea-turtle-lifecycle"
-
             ],
             "content": [
                 "Sea Turtles are very unique. They are large with very big flippers to help them swim. They are found in lukewarm to hot salt water bodies like oceans. They are cold-blooded and need the environmental temperature (in this case, the water temperature) to be warm to survive, just like every other turtle. There are only 7 sea turtle species on the planet, and 6 of them can be found in the U.S.",
@@ -88,7 +113,7 @@
                 "Fun fact 2: Sea turtles are great divers. While resting, some species can stay underwater for many hours by slowing their heart rate. During swimming or feeding, they usually surface much more often to breathe."
             ]
         },
-                {
+        {
             "h": "Snapper Turtles",
             "genre": "broad turtle type (easy read)",
             "author": "Turtle Net",
