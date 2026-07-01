@@ -22,21 +22,26 @@
             "sources": [
                 "https://www.animaldiversity.org/accounts/Trachemys_scripta/",
                 "https://www.usgs.gov/publications/unusual-population-attributes-invasive-red-eared-slider-turtles-trachemys-scripta",
-                "https://nsglc.olemiss.edu/projects/invasivespecies/files/legal-case-study-red-eared-slider.pdf"
+                "https://nsglc.olemiss.edu/projects/invasivespecies/files/legal-case-study-red-eared-slider.pdf",
+                "https://tpwd.texas.gov/huntwild/wild/species/slider/",
+                "https://vcahospitals.com/know-your-pet/turtles-aquatic-feeding"
             ],
             "content": [
                 "Slider turtles are a group of freshwater pond turtles native to the central and southeastern United States and parts of Mexico. They are one of the most commonly recognized pet turtle groups in the world.",
-                "Quick facts: 1. Slider turtles can live 20–40 years ||| 2. they are omnivores that eat both plants and animals.",
+                "Quick fun facts: 1. Slider turtles can live 20–40 years ||| 2. Slider Turtles get their name from being able to slide off rocks and logs quickly after basking.",
                 "The three most common species are the Red-eared Slider, Yellow-bellied Slider, and Cumberland Slider. They are very related and share very similar behaviors and habitats.",
                 "As adults, they normally reach about 5–12 inches (which is 13–30 cm) in shell length, but it depends on the species and sex.",
-                "Slider turtles live in freshwater environments such as ponds, lakes, marshes, and slowly moving rivers. They heavily rely on basking areas like rocks and logs in order to regulate their body temperature, or keep their temperature balanced.",
+                "(Diet under Captivity) Most slider turtles are omnivores, eating both meats and plants. When in captivity, you should feed them commercial turtle pellets as about 1/4 of their diet (as the animal protein portion), along with occasional protein sources such as earthworms, bloodworms, or small insects. Fruits should only be given as an occasional treat (such as a small piece of strawberry every 2–3 weeks), while the rest of their diet should consist mainly of leafy greens and vegetables. The best vegetables depend on the species, but commonly include dandelion greens as the top staple, along with others such as collard greens, romaine lettuce, mustard greens, and carrot tops. Instead of feeding the same foods every day, you should rotate them. For example: 2 days a week you may give pellets along with a small amount of mixed greens (dandelion, collard, romaine, carrot tops), 1 day higher-protein feeding (pellets plus earthworm or bloodworm), 1 day dandelion greens with a small amount of pellets, 1 day collard greens and romaine lettuce mix, 1 day mixed greens rotation, and 1 day light feeding or rest day. Any leftover food should be removed from the tank daily using something like a net to maintain proper water quality and hygiene. Younger slider turtles should receive more meats, while older ones should have a much more balanced diet. Fun fact: slider turtles are attracted to red foods, such as red bell peppers, which should only be given as an occasional treat.",
+                "(Natural Diet) Most slider turtles are omnivores, eating both meats and plants. Their diet changes as they age. Younger sliders eat more protein filled foods, like insects and small fish, while adults eat more plants such as aquatic vegetation and algae.",
+                "Slider turtles live in freshwater environments such as ponds, lakes, marshes, and slowly moving rivers. They heavily rely on basking areas like rocks and logs in order to regulate their body temperature, or keep their temperature balanced.", 
                 "They are cold blooded reptiles, meaning they depend on external heat sources like sunlight and can not heat themselves. When under captivity, they require UVB lighting and heat lamps to stay healthy.",
-                "Their diet changes as they age. Younger sliders eat more protein filled foods, like insects and small fish, while adults eat more plants such as aquatic vegetation and algae.",
                 "Slider turtles are good swimmers and spend much of their time in water, but they often climb out to bask in the sun. Basking helps them dry their shells and absorb heat and UV light. They also need the heat since they are cold blooded.",
                 "In many parts of the world, especially outside their native range, slider turtles are considered invasive. They can compete with native species for food and habitat.",
                 "One major cause of their spread is pet release. People often release unwanted pet turtles into the wild, even if the animal isn't local to that area, which can harm local ecosystems and is illegal in most places.",
                 "As pets, slider turtles require large tanks, strong filtration systems, UVB lighting, and a longterm commitment since they can live for decades under good conditions.",
                 "Common misconceptions include that they can survive in small tanks or without UV light, which is false and often leads to health problems or even death in captivity.",
+                "Like most freshwater turtles, slider turtles are not exactly fast on land, but when motivated (such as from being panicked or being startled) they have huge bursts of energy, making them incredibly fast on land for just a few seconds.",
+                "Sliders have bad hearing but instead are very sensitive to vibrations. This can make it hard to sneak up on them, as they will sense it before you can even get close.",
                 "Another fun fact is that slider turtles can recognize feeding routines and often respond to movement near their tank when they associate it with food. They remember who feeds them!"
             ]
         },
@@ -102,6 +107,29 @@
                 "Female snapping turtles lay their eggs on land, lots of times traveling long distances from water just to find a good nesting site. A typical clutch (like a nest) may contain dozens of eggs. The peak seasons for snapper turtle egg laying are June and July.",
                 "Snapper turtles should not be messed with in the wild. When threatened, they may bite as a form of defense, but they usually prefer to retreat into water rather than attack.",
                 "In some areas, snapping turtles are considered invasive because they are not native there, often due to pet release."
+            ]
+        },
+        {
+            "h": "Tortoises",
+            "genre": "broad turtle type (easy read)",
+            "author": "Turtle Net",
+            "sources": [
+                "https://www.britannica.com/story/whats-the-difference-between-a-turtle-and-a-tortoise",
+                "https://www.orangegroveah.com/desert-tortoise-diet",
+                "https://www.britannica.com/animal/tortoise-reptile",
+                "https://www.rspca.org.uk/adviceandwelfare/pets/reptiles/tortoises",
+                "https://www.reptilesmagazine.com/tortoise-care-sheet/",
+                "https://www.audubon.org/news/how-care-pet-tortoise",
+                "https://www.vetmed.ucdavis.edu/news/tortoise-nutrition-basics"
+            ],
+            "content": [
+                "Tortoises are a type of turtle. This means that all tortoises are turtles, but not all turtles are tortoises. Unlike most other turtles which are either mostly aquatic or fully aquatic, tortoises are strictly land-dwelling, meaning they only go on land and can not swim.",
+                "Tortoises do not go in water. Forcing them to swim may cause them to drown. Tortoises are mostly very slow but steady, unlike most freshwater turtles which have unsteady land speeds because they can have bursts of speed on land when motivated but then quickly slow down.",
+                "Most tortoises are herbivores, eating mostly grasses and weeds. Vegatables can be an occasional treat, but many tortoise species can not have certain veggies (common examples include Avocado, rhubarb, and spinach, and lettuce), so you should do further research for the specific species. Either way, a tortoise should not have them frequently. Some tortoise species (like Red-footed and Yellow-footed Tortoises) can have specific kinds of fruit (often including fruits like bananas, mangoes, berries, and figs). When kept in captivity, you can also buy prepackaged tortoise pellet food depending on the species, but that should not make up all of its diet.",
+                "Different tortoise species have slightly different dietary needs depending on where they live, so the paragraph above should be taken with a grain of salt. For example, Mediterranean tortoises eat mostly grasses and weeds, while some tropical species eat a mix of leafy plants and occasional fruit.",
+                "Tortoises require a high-calcium diet to help keep healthy shell growth and bone strength. Many caretakers provide calcium supplements or natural cuttlebone to ensure proper nutrition.",
+                "Even though tortoises are land animals, they still require constant access to clean fresh water for drinking and soaking, especially in hot climates or seasons.",
+                "Common mistakes include feeding too much fruit, offering iceberg lettuce (which has close to no nutrients), or giving animal protein, which most tortoise species do not need."
             ]
         }
     ]
