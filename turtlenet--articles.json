@@ -16,6 +16,33 @@
             ]
         },
         {
+            "h": "14 Turtle Families",
+            "genre": "turtle-related (easy read)",
+            "author": "Turtle Net",
+            "sources": [
+                "https://www.britannica.com/animal/turtle-reptile",
+                "https://turtlesurvival.org/species",
+                "https://iucn-tftsg.org/checklist/",
+                "https://reptile-database.reptarium.cz"
+            ],
+            "content": [
+                "There are believed to be around 364 species of turtles (including tortoises and species that unfortunately are believed to have gone extinct recently). This huge number is usually broken down into 14 main families within 2 suborders: hidden-necked (Cryptodira) and side-necked (Pleurodira). Turtles of the hidden-necked suborder evolved from ancestors that could fully retract their heads into their shells, although some species later lost this ability. Turtles of the side-necked suborder, on the other hand, can only bend their necks sideways and tuck their heads alongside or partially beneath the edge of their shells. The following paragraphs will explain each major family group.",
+                "The first group is sea turtles (superfamily Chelonioidea), part of the hidden-necked suborder (Cryptodira). Sea turtles live in oceans and seas, although most modern species have limited neck retraction compared to their freshwater relatives, likely as an adaptation for swimming more efficiently. Chelonioidea is a superfamily made up of two families: Cheloniidae (hard-shelled sea turtles; includes all sea turtles except the leatherback) and Dermochelyidae (leatherback sea turtle family, which contains only the leatherback). When people think of turtles, sea turtles are often the first thing that comes to mind. For more info, check <a href=\"/learn/article?i=sea-turtles\">this article</a>.",
+                "The second group is tortoises (family Testudinidae), part of the hidden-necked suborder (Cryptodira). Tortoises are fully terrestrial turtles adapted for life on land. They have thick, dome-shaped shells and sturdy legs often compared to elephant legs designed for walking on dry terrain. Unlike aquatic turtles, tortoises are poor swimmers and can drown easily if placed in deep water. They are found across many regions including Africa, Asia, Europe, and the Americas, depending on the species. For more info, check <a href=\"https://www.turtlenet.club/learn/article?i=tortoises\">this article</a>.",
+                "The third group is pond and marsh turtles (family Emydidae), part of the hidden-necked suborder (Cryptodira). This is a large and diverse family that includes many familiar species such as <a href=\"/learn/article?i=slider-turtles\">sliders</a>, painted turtles, cooters, and box turtles. They are mostly freshwater turtles that inhabit ponds, lakes, marshes, and slow-moving rivers. Many species are semi-aquatic, meaning they spend a lot of time on both water and land.",
+                "The fourth group is Asian river turtles (family Geoemydidae), part of the hidden-necked suborder (Cryptodira). This family contains a wide variety of species found mainly in Asia and parts of Europe. They include leaf turtles, roofed turtles, and Asian box turtles. Many species in this group are highly adapted to rivers and streams, and some are critically endangered due to habitat loss and over-collection.",
+                "The fifth group is snapping turtles (family Chelydridae), part of the hidden-necked suborder (Cryptodira). These turtles are known for their strong jaws, large heads, and aggressive defensive behavior when threatened. They are mostly found in North and Central America. The alligator snapping turtle is one of the largest freshwater turtles in the world.",
+                "The sixth group is mud and musk turtles (family Kinosternidae), part of the hidden-necked suborder (Cryptodira). These are small, often secretive turtles that inhabit slow-moving freshwater environments. Many species produce a strong odor from musk glands when threatened, which is actually how they got their name.",
+                "The seventh group is softshell turtles (family Trionychidae), part of the hidden-necked suborder (Cryptodira). These turtles have flat, leathery shells instead of hard bony scutes. They are highly aquatic and are very fast swimmers. Their long necks and snorkel-like snouts help them breathe while staying mostly submerged.",
+                "The eighth group is the pig-nosed turtle family (Carettochelyidae), part of the hidden-necked suborder (Cryptodira). This unusual family contains only one living species, the pig-nosed turtle, which has flippers similar to sea turtles but lives in freshwater rivers in New Guinea and northern Australia.",
+                "The ninth group is the big-headed turtle family (Platysternidae), part of the hidden-necked suborder (Cryptodira). This family contains only one species, the big-headed turtle, known for its disproportionately large head and strong jaws, which it cannot fully retract into its shell.",
+                "The tenth group is snapping relatives of Asia and Africa in the side-necked suborder (Pleurodira), including the Pelomedusidae family. These turtles are found in Africa and are adapted to freshwater habitats such as rivers, lakes, and swamps.",
+                "The eleventh group is the South American side-necked turtles (family Podocnemididae), part of the side-necked suborder (Pleurodira). These turtles are found in big river systems such as the Amazon and Orinoco. Some species grow very large and are important both ecologically and culturally in their regions.",
+                "The twelfth group is the African and South American side-necked turtle family Chelidae, part of the side-necked suborder (Pleurodira). These turtles include snake-necked turtles and the matamata, a camouflaged ambush predator that almost looks like a leaf.",
+                "This completes the main classification of modern turtle families. Each group has evolved unique features to survive in its specific environment, from oceans and rivers to forests and deserts."
+            ]
+        },
+        {
             "h": "A Proper Slider Turtle Diet",
             "genre": "how to take care of your turtle (easy read)",
             "author": "Turtle Net",
@@ -26,7 +53,7 @@
             ],
             "content": [
                 "A very common mistake in slider turtle care is the diet. Many owners unintentionally feed only pellets for long periods of time without realizing that turtles require a much more varied diet.",
-                "While pellets are an important part of a slider’s diet, feeding pellets exclusively can lead to longterm health issues. However, this is a very common situation and is usually due to misinformation rather than neglect.",
+                "While pellets are an important part of a slider's diet, feeding pellets exclusively can lead to longterm health issues. However, this is a very common situation and is usually due to misinformation rather than neglect.",
                 "Many pet stores recommend pellets as the main food source, but in reality, they should only make up a small portion of the overall diet. All slider turtles are omnivores, and their diet should be mostly leafy greens with smaller amounts of pellets and occasional treats.",
                 "For a healthy slider turtle, it helps to follow a consistent weekly feeding routine. The following is an example of a balanced schedule.",
                 "[ex.] On Monday, offer leafy greens such as dandelion greens or romaine lettuce. No pellets are needed.",
